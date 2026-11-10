@@ -1,0 +1,261 @@
+[
+    {
+        "service":  "ddr4-vps",
+        "name":  "SA-BD-VPS-12-30B",
+        "price":  450,
+        "period":  "month",
+        "features":  [
+                         "1 Dedicated vCPU Intel Xeon",
+                         "2 GB - DDR4",
+                         "30 GB - NVMe SSD Storage",
+                         "2 TB Bandwidth Limit",
+                         "1 Gbps BDIX Network Speed (UpTo)",
+                         "100 Mbps int Network Speed (UpTo)",
+                         "Root access",
+                         "1 Dedicated IPv4",
+                         "Self Managed"
+                     ],
+        "orderUrl":  "https://my.serveranywhere.net/index.php?rp=/store/ddr4-vps/sa-bd-vps-12-30b",
+        "featured":  false
+    },
+    {
+        "service":  "ddr4-vps",
+        "name":  "SA-BD-VPS-24-50B",
+        "price":  599,
+        "period":  "month",
+        "features":  [
+                         "2 Dedicated vCPU Intel Xeon",
+                         "4 GB - DDR4",
+                         "50 GB - NVMe SSD Storage",
+                         "2 TB Bandwidth Limit",
+                         "1 Gbps BDIX Network Speed (UpTo)",
+                         "100 Mbps int Network Speed (UpTo)",
+                         "Root access",
+                         "1 Dedicated IPv4",
+                         "Self Managed"
+                     ],
+        "orderUrl":  "https://my.serveranywhere.net/index.php?rp=/store/ddr4-vps/sa-bd-vps-24-50b",
+        "featured":  false
+    },
+    {
+        "service":  "ddr4-vps",
+        "name":  "SA-BD-VPS-44-60B",
+        "price":  780,
+        "period":  "month",
+        "features":  [
+                         "4 Dedicated vCPU Intel Xeon",
+                         "4 GB - DDR4",
+                         "60 GB - NVMe SSD Storage",
+                         "3 TB Bandwidth Limit",
+                         "1 Gbps BDIX Network Speed (UpTo)",
+                         "100 Mbps int Network Speed (UpTo)",
+                         "Root access",
+                         "1 Dedicated IPv4",
+                         "Self Managed"
+                     ],
+        "orderUrl":  "https://my.serveranywhere.net/index.php?rp=/store/ddr4-vps/sa-bd-vps-44-60b",
+        "featured":  false
+    },
+    {
+        "service":  "dedicated-servers",
+        "name":  "Server 1",
+        "price":  8000,
+        "period":  "month",
+        "features":  [
+                         "Intel® Xeon® Processor E5-2450",
+                         "Unlimited Bandwidth",
+                         "32 GB Physical Memory",
+                         "8/16 Cores/Threads"
+                     ],
+        "orderUrl":  "https://my.serveranywhere.net/index.php?rp=/store/dedicated-servers/server-1",
+        "featured":  false
+    },
+    {
+        "service":  "dedicated-servers",
+        "name":  "Server 2",
+        "price":  10000,
+        "period":  "month",
+        "features":  [
+                         "Intel® Xeon® Processor E5-2650 v2 x2",
+                         "Unlimited Bandwidth",
+                         "32 GB Physical Memory",
+                         "16/32 Cores/Threads"
+                     ],
+        "orderUrl":  "https://my.serveranywhere.net/index.php?rp=/store/dedicated-servers/server-2",
+        "featured":  false
+    },
+    {
+        "service":  "dedicated-servers",
+        "name":  "Server 3",
+        "price":  9000,
+        "period":  "month",
+        "features":  [
+                         "Dell PowerEdge R710",
+                         "Intel® Xeon® Processor X5670 x2",
+                         "Unlimited Bandwidth",
+                         "64 GB Physical Memory",
+                         "12/24 Cores/Threads"
+                     ],
+        "orderUrl":  "https://my.serveranywhere.net/index.php?rp=/store/dedicated-servers/server-3",
+        "featured":  false
+    },
+    {
+        "service":  "general-purpose-rdp",
+        "name":  "SA-BD-RDP-24-50A",
+        "price":  599,
+        "period":  "month",
+        "features":  [
+                         "2 Dedicated vCPU @ 3.2 GHz",
+                         "4 GB -  Memory",
+                         "50 GB - SSD Storage",
+                         "2 TB Bandwidth Limit",
+                         "1 Gbps BDIX Network Speed (UpTo)",
+                         "100 Mbps int Network Speed (UpTo)",
+                         "Unlicensed windows",
+                         "1 Dedicated IPv4",
+                         "Self Managed"
+                     ],
+        "orderUrl":  "https://my.serveranywhere.net/index.php?rp=/store/genral-purpose-rdp/sa-bd-rdp-24-50a",
+        "featured":  false
+    },
+    {
+        "service":  "general-purpose-rdp",
+        "name":  "SA-BD-RDP-48-75A",
+        "price":  999,
+        "period":  "month",
+        "features":  [
+                         "4 Dedicated vCPU @ 3.2 GHz",
+                         "8 GB -  Memory",
+                         "75 GB - SSD Storage",
+                         "3 TB Bandwidth Limit",
+                         "1 Gbps BDIX Network Speed (UpTo)",
+                         "100 Mbps int Network Speed (UpTo)",
+                         "Unlicensed windows",
+                         "1 Dedicated IPv4",
+                         "Self Managed"
+                     ],
+        "orderUrl":  "https://my.serveranywhere.net/index.php?rp=/store/genral-purpose-rdp/sa-bd-rdp-48-75a",
+        "featured":  false
+    },
+    {
+        "service":  "general-purpose-rdp",
+        "name":  "SA-BD-RDP-816-150A",
+        "price":  1699,
+        "period":  "month",
+        "features":  [
+                         "8 Dedicated vCPU @ 3.2 GHz",
+                         "16 GB -  Memory",
+                         "150 - SSD Storage",
+                         "4 TB Bandwidth Limit",
+                         "1 Gbps BDIX Network Speed (UpTo)",
+                         "100 Mbps int Network Speed (UpTo)",
+                         "Unlicensed windows",
+                         "1 Dedicated IPv4",
+                         "Self Managed"
+                     ],
+        "orderUrl":  "https://my.serveranywhere.net/index.php?rp=/store/genral-purpose-rdp/sa-bd-rdp-816-150a",
+        "featured":  false
+    },
+    {
+        "service":  "web-hosting",
+        "name":  "Standard",
+        "price":  99,
+        "period":  "month",
+        "features":  [
+                         "5 GB NVMe SSD Storage",
+                         "500 GB Bandwidth",
+                         "1.5 GB Physical Memory",
+                         "2 Core CPU",
+                         "8 Websites",
+                         "20 Email Accounts",
+                         "Free .xyz domain for first year (yearly plans only)"
+                     ],
+        "orderUrl":  "https://my.serveranywhere.net/index.php?rp=/store/bdix-web-hosting/standard",
+        "featured":  false
+    },
+    {
+        "service":  "web-hosting",
+        "name":  "Advance",
+        "price":  199,
+        "period":  "month",
+        "features":  [
+                         "15 GB NVMe SSD Storage",
+                         "1 TB Bandwidth",
+                         "2 GB Physical Memory",
+                         "4 Core CPU",
+                         "16 Websites",
+                         "40 Email Accounts",
+                         "Free .xyz domain for first year (yearly plans only)"
+                     ],
+        "orderUrl":  "https://my.serveranywhere.net/index.php?rp=/store/bdix-web-hosting/advance",
+        "featured":  true
+    },
+    {
+        "service":  "web-hosting",
+        "name":  "Pro",
+        "price":  450,
+        "period":  "month",
+        "features":  [
+                         "40 GB NVMe SSD Storage",
+                         "2TB Bandwidth",
+                         "3 GB Physical Memory",
+                         "6 Core CPU",
+                         "24 Websites",
+                         "100 Email Accounts",
+                         "Free .xyz domain for first year (yearly plans only)"
+                     ],
+        "orderUrl":  "https://my.serveranywhere.net/index.php?rp=/store/bdix-web-hosting/pro",
+        "featured":  false
+    },
+    {
+        "service":  "web-hosting",
+        "name":  "Standard",
+        "price":  999,
+        "period":  "year",
+        "features":  [
+                         "5 GB NVMe SSD Storage",
+                         "500 GB Bandwidth",
+                         "1.5 GB Physical Memory",
+                         "1.5 Core CPU",
+                         "5 Websites",
+                         "20 Email Accounts",
+                         "Free .xyz domain for first year (yearly plans only)"
+                     ],
+        "orderUrl":  "https://my.serveranywhere.net/index.php?rp=/store/bdix-web-hosting/standard",
+        "featured":  false
+    },
+    {
+        "service":  "web-hosting",
+        "name":  "Advance",
+        "price":  2025,
+        "period":  "year",
+        "features":  [
+                         "15 GB NVMe SSD Storage",
+                         "1 TB Bandwidth",
+                         "2 GB Physical Memory",
+                         "2 Core CPU",
+                         "8 Websites",
+                         "40 Email Accounts",
+                         "Free .xyz domain for first year (yearly plans only)"
+                     ],
+        "orderUrl":  "https://my.serveranywhere.net/index.php?rp=/store/bdix-web-hosting/advance",
+        "featured":  false
+    },
+    {
+        "service":  "web-hosting",
+        "name":  "Pro",
+        "price":  4579,
+        "period":  "year",
+        "features":  [
+                         "40 GB NVMe SSD Storage",
+                         "2TB Bandwidth",
+                         "3 GB Physical Memory",
+                         "3 Core CPU",
+                         "10 Websites",
+                         "100 Email Accounts",
+                         "Free .xyz domain for first year (yearly plans only)"
+                     ],
+        "orderUrl":  "https://my.serveranywhere.net/index.php?rp=/store/bdix-web-hosting/pro",
+        "featured":  false
+    }
+]

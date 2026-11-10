@@ -1,0 +1,2925 @@
+[
+  {
+    "slug": "web-hosting",
+    "title": "BDIX Web Hosting",
+    "category": "Web Hosting",
+    "description": "Choose the best plan for you",
+    "plans": [
+      {
+        "name": "Standard",
+        "price": 99,
+        "currency": "৳",
+        "period": "month",
+        "features": [
+          "5 GB NVMe SSD Storage",
+          "500 GB Bandwidth",
+          "1.5 GB Physical Memory",
+          "2 Core CPU",
+          "8 Websites",
+          "20 Email Accounts",
+          "Free .xyz domain for first year (yearly plans only)"
+        ],
+        "orderUrl": "https://my.serveranywhere.net/index.php?rp=/store/bdix-web-hosting/standard",
+        "featured": false
+      },
+      {
+        "name": "Advance",
+        "price": 199,
+        "currency": "৳",
+        "period": "month",
+        "features": [
+          "15 GB NVMe SSD Storage",
+          "1 TB Bandwidth",
+          "2 GB Physical Memory",
+          "4 Core CPU",
+          "16 Websites",
+          "40 Email Accounts",
+          "Free .xyz domain for first year (yearly plans only)"
+        ],
+        "orderUrl": "https://my.serveranywhere.net/index.php?rp=/store/bdix-web-hosting/advance",
+        "featured": true
+      },
+      {
+        "name": "Pro",
+        "price": 450,
+        "currency": "৳",
+        "period": "month",
+        "features": [
+          "40 GB NVMe SSD Storage",
+          "2TB Bandwidth",
+          "3 GB Physical Memory",
+          "6 Core CPU",
+          "24 Websites",
+          "100 Email Accounts",
+          "Free .xyz domain for first year (yearly plans only)"
+        ],
+        "orderUrl": "https://my.serveranywhere.net/index.php?rp=/store/bdix-web-hosting/pro",
+        "featured": false
+      },
+      {
+        "name": "Standard",
+        "price": 999,
+        "currency": "৳",
+        "period": "year",
+        "features": [
+          "5 GB NVMe SSD Storage",
+          "500 GB Bandwidth",
+          "1.5 GB Physical Memory",
+          "1.5 Core CPU",
+          "5 Websites",
+          "20 Email Accounts",
+          "Free .xyz domain for first year (yearly plans only)"
+        ],
+        "orderUrl": "https://my.serveranywhere.net/index.php?rp=/store/bdix-web-hosting/standard",
+        "featured": false
+      },
+      {
+        "name": "Advance",
+        "price": 2025,
+        "currency": "৳",
+        "period": "year",
+        "features": [
+          "15 GB NVMe SSD Storage",
+          "1 TB Bandwidth",
+          "2 GB Physical Memory",
+          "2 Core CPU",
+          "8 Websites",
+          "40 Email Accounts",
+          "Free .xyz domain for first year (yearly plans only)"
+        ],
+        "orderUrl": "https://my.serveranywhere.net/index.php?rp=/store/bdix-web-hosting/advance",
+        "featured": false
+      },
+      {
+        "name": "Pro",
+        "price": 4579,
+        "currency": "৳",
+        "period": "year",
+        "features": [
+          "40 GB NVMe SSD Storage",
+          "2TB Bandwidth",
+          "3 GB Physical Memory",
+          "3 Core CPU",
+          "10 Websites",
+          "100 Email Accounts",
+          "Free .xyz domain for first year (yearly plans only)"
+        ],
+        "orderUrl": "https://my.serveranywhere.net/index.php?rp=/store/bdix-web-hosting/pro",
+        "featured": false
+      }
+    ],
+    "notices": [
+      "Enjoy a 20% discount when you choose a yearly plan—save more on your hosting!"
+    ],
+    "features": [
+      {
+        "title": "FREE Domain Name for 1st Year",
+        "description": "Free domain for the first year with every plan! One year of domain registration included, with renewal charges applicable after the initial year."
+      },
+      {
+        "title": "Control Panel - cPanel",
+        "description": "Easily manage your domain, renew your plan, and maximize your purchase with our user-friendly control panel."
+      },
+      {
+        "title": "Free SSL Certificate",
+        "description": "An SSL provides a secure connection to your website, allows for eCommerce."
+      },
+      {
+        "title": "Performance - LiteSpeed + LSCache",
+        "description": "Enhance the performance of your WordPress, Joomla, and other dynamic websites while efficiently managing cache during traffic surges."
+      },
+      {
+        "title": "Softaculous",
+        "description": "Softaculous handles the entire application lifecycle, including installation, backup, restoration, and updates."
+      },
+      {
+        "title": "Reliable Performance",
+        "description": "Experience stable and secure hosting with CloudLinux-managed resources, including storage, CPU, and RAM for optimal website performance."
+      }
+    ],
+    "tables": [
+      {
+        "title": "Resource Limits",
+        "headers": [
+          "Resources",
+          "Standard",
+          "Advance",
+          "Pro"
+        ],
+        "rows": [
+          [
+            "I/O Speed",
+            "25 Mb/s",
+            "40 Mb/s",
+            "60 Mb/s"
+          ],
+          [
+            "IOPS",
+            "1024",
+            "2048",
+            "3072"
+          ],
+          [
+            "Entry Process",
+            "20",
+            "30",
+            "40"
+          ],
+          [
+            "Number of Process",
+            "100",
+            "110",
+            "120"
+          ],
+          [
+            "INODES/File Limit",
+            "No Limit",
+            "No Limit",
+            "No Limit"
+          ],
+          [
+            "Shell(SSH) Access",
+            "No",
+            "Yes",
+            "Yes"
+          ],
+          [
+            "cPanel (Control Panel)",
+            "Yes",
+            "Yes",
+            "Yes"
+          ],
+          [
+            "SSL Certificate",
+            "Free",
+            "Free",
+            "Free"
+          ],
+          [
+            "Litespeed with LS-Cache",
+            "Yes",
+            "Yes",
+            "Yes"
+          ],
+          [
+            "7d Daily Data Backup",
+            "Yes",
+            "Yes",
+            "Yes"
+          ],
+          [
+            "Server Location",
+            "Bangladesh",
+            "Bangladesh",
+            "Bangladesh"
+          ]
+        ]
+      }
+    ],
+    "faqs": [
+      {
+        "question": "What is a domain name?",
+        "answer": "A domain name is your website’s address on the internet, like www.example.com. You need one to link your website to a hosting service. If you don’t already have one, we can help you purchase and set it up."
+      },
+      {
+        "question": "What is Shared Hosting?",
+        "answer": "Shared Hosting is one of the most popular hosting packages because it provides an affordable way to get your website online. Shared Hosting works by allowing multiple users to share space on a single server maintained by the hosting provider"
+      },
+      {
+        "question": "How do I choose the right hosting plan for my website?",
+        "answer": "Think about the size of your website, expected traffic, and the resources you need. If you’re unsure, our team at ServerAnywhere can help you select the perfect plan!"
+      },
+      {
+        "question": "Can I transfer my existing website to ServerAnywhere?",
+        "answer": "Yes! Our migration tools and expert support make it easy to transfer your website from another host to ServerAnywhere with minimal downtime."
+      },
+      {
+        "question": "What is uptime, and what uptime guarantee does ServerAnywhere offer?",
+        "answer": "Uptime refers to the amount of time your website is accessible online. ServerAnywhere guarantees 99.9% uptime to ensure your site is always available."
+      },
+      {
+        "question": "How can I contact ServerAnywhere support?",
+        "answer": "We offer customer support via live chat, email, or phone. Our expert team is always available to assist you with any technical issues or questions."
+      },
+      {
+        "question": "Can I upgrade or downgrade my hosting plan later?",
+        "answer": "Absolutely! ServerAnywhere offers flexible hosting plans that can be upgraded or downgraded to match the growth of your website."
+      },
+      {
+        "question": "What are the payment options available for hosting?",
+        "answer": "ServerAnywhere accepts various payment methods, including Bkash, Nagad, Rocket, Upay, Bank Transfer, Wise Transfer, Global Bank Transfer, PayPal, Crypto and more. You can choose the one that works best for you."
+      }
+    ],
+    "warning": "",
+    "featureTitle": "All Plans Include",
+    "textSections": []
+  },
+  {
+    "slug": "sg-web-hosting",
+    "title": "SG Web Hosting",
+    "category": "Web Hosting",
+    "description": "",
+    "plans": [
+      {
+        "name": "Sg 2GB",
+        "price": 100,
+        "currency": "৳",
+        "period": "month",
+        "features": [
+          "2 GB NVMe Storage",
+          "1 Addon Domains",
+          "4 Sub-Domains",
+          "100 GB Premium Bandwidth",
+          "Softaculous One Click Installer",
+          "Unlimited Email Account",
+          "cPanel Control Panel",
+          "Free SSL Certificate",
+          "LiteSpeed X Core",
+          "JetBackup5"
+        ],
+        "orderUrl": "https://my.serveranywhere.net/index.php?rp=/store/sg-web-hosting/sg-starter",
+        "featured": false
+      },
+      {
+        "name": "Sg 5GB",
+        "price": 240,
+        "currency": "৳",
+        "period": "month",
+        "features": [
+          "5 GB NVMe Storage",
+          "3 Addon Domains",
+          "10 Sub-Domains",
+          "256 GB Premium Bandwidth",
+          "Softaculous One Click Installer",
+          "Unlimited Email Account",
+          "cPanel Control Panel",
+          "Free SSL Certificate",
+          "LiteSpeed X Core",
+          "JetBackup5"
+        ],
+        "orderUrl": "https://my.serveranywhere.net/index.php?rp=/store/sg-web-hosting/sg-standard",
+        "featured": false
+      },
+      {
+        "name": "Sg 10GB",
+        "price": 420,
+        "currency": "৳",
+        "period": "month",
+        "features": [
+          "10 GB NVMe Storage",
+          "5 Addon Domains",
+          "20 Sub-Domains",
+          "500 GB Premium Bandwidth",
+          "Softaculous One Click Installer",
+          "Unlimited Email Account",
+          "cPanel Control Panel",
+          "Free SSL Certificate",
+          "LiteSpeed X Core",
+          "JetBackup5"
+        ],
+        "orderUrl": "https://my.serveranywhere.net/index.php?rp=/store/sg-web-hosting/sg-advance",
+        "featured": false
+      },
+      {
+        "name": "Sg 20GB",
+        "price": 720,
+        "currency": "৳",
+        "period": "month",
+        "features": [
+          "20 GB NVMe Storage",
+          "8 Addon Domains",
+          "40 Sub-Domains",
+          "1000 GB Premium Bandwidth",
+          "Softaculous One Click Installer",
+          "Unlimited Email Account",
+          "cPanel Control Panel",
+          "Free SSL Certificate",
+          "LiteSpeed X Core",
+          "JetBackup5"
+        ],
+        "orderUrl": "https://my.serveranywhere.net/index.php?rp=/store/sg-web-hosting/sg-pro",
+        "featured": false
+      },
+      {
+        "name": "Sg 2GB",
+        "price": 1200,
+        "currency": "৳",
+        "period": "year",
+        "features": [
+          "2 GB NVMe Storage",
+          "1 Addon Domains",
+          "4 Sub-Domains",
+          "100 GB Premium Bandwidth",
+          "Softaculous One Click Installer",
+          "Unlimited Email Account",
+          "cPanel Control Panel",
+          "Free SSL Certificate",
+          "LiteSpeed X Core",
+          "JetBackup5"
+        ],
+        "orderUrl": "https://my.serveranywhere.net/index.php?rp=/store/sg-web-hosting/sg-starter",
+        "featured": false
+      },
+      {
+        "name": "Sg 5GB",
+        "price": 2880,
+        "currency": "৳",
+        "period": "year",
+        "features": [
+          "5 GB NVMe Storage",
+          "3 Addon Domains",
+          "10 Sub-Domains",
+          "256 GB Premium Bandwidth",
+          "Softaculous One Click Installer",
+          "Unlimited Email Account",
+          "cPanel Control Panel",
+          "Free SSL Certificate",
+          "LiteSpeed X Core",
+          "JetBackup5"
+        ],
+        "orderUrl": "https://my.serveranywhere.net/index.php?rp=/store/sg-web-hosting/sg-standard",
+        "featured": false
+      },
+      {
+        "name": "Sg 10GB",
+        "price": 5040,
+        "currency": "৳",
+        "period": "year",
+        "features": [
+          "10 GB NVMe Storage",
+          "5 Addon Domains",
+          "20 Sub-Domains",
+          "500 GB Premium Bandwidth",
+          "Softaculous One Click Installer",
+          "Unlimited Email Account",
+          "cPanel Control Panel",
+          "Free SSL Certificate",
+          "LiteSpeed X Core",
+          "JetBackup5"
+        ],
+        "orderUrl": "https://my.serveranywhere.net/index.php?rp=/store/sg-web-hosting/sg-advance",
+        "featured": false
+      },
+      {
+        "name": "Sg 20GB",
+        "price": 8640,
+        "currency": "৳",
+        "period": "year",
+        "features": [
+          "20 GB NVMe Storage",
+          "8 Addon Domains",
+          "40 Sub-Domains",
+          "1000 GB Premium Bandwidth",
+          "Softaculous One Click Installer",
+          "Unlimited Email Account",
+          "cPanel Control Panel",
+          "Free SSL Certificate",
+          "LiteSpeed X Core",
+          "JetBackup5"
+        ],
+        "orderUrl": "https://my.serveranywhere.net/index.php?rp=/store/sg-web-hosting/sg-pro",
+        "featured": false
+      }
+    ],
+    "notices": [
+      "Enjoy a 25% discount when you choose a yearly plan—save more on your hosting!"
+    ],
+    "features": [
+      {
+        "title": "FREE Domain Name for 1st Year",
+        "description": "Free domain for the first year with every plan! One year of domain registration included, with renewal charges applicable after the initial year."
+      },
+      {
+        "title": "Control Panel - cPanel",
+        "description": "Easily manage your domain, renew your plan, and maximize your purchase with our user-friendly control panel."
+      },
+      {
+        "title": "Free SSL Certificate",
+        "description": "An SSL provides a secure connection to your website, allows for eCommerce."
+      },
+      {
+        "title": "Performance - LiteSpeed + LSCache",
+        "description": "Enhance the performance of your WordPress, Joomla, and other dynamic websites while efficiently managing cache during traffic surges."
+      },
+      {
+        "title": "Softaculous",
+        "description": "Softaculous handles the entire application lifecycle, including installation, backup, restoration, and updates."
+      },
+      {
+        "title": "Reliable Performance",
+        "description": "Experience stable and secure hosting with CloudLinux-managed resources, including storage, CPU, and RAM for optimal website performance."
+      }
+    ],
+    "tables": [
+      {
+        "title": "Resource Limits",
+        "headers": [
+          "Resources",
+          "Sg 2GB",
+          "Sg 5GB",
+          "Sg 10GB",
+          "Sg 20GB"
+        ],
+        "rows": [
+          [
+            "I/O Speed",
+            "20 Mb/s",
+            "20 Mb/s",
+            "30 Mb/s",
+            "50 Mb/s"
+          ],
+          [
+            "IOPS",
+            "1024",
+            "1024",
+            "1024",
+            "1024"
+          ],
+          [
+            "Entry Process",
+            "25",
+            "35",
+            "35",
+            "50"
+          ],
+          [
+            "Number of Process",
+            "100",
+            "100",
+            "120",
+            "120"
+          ],
+          [
+            "INODES/File Limit",
+            "No Limit",
+            "No Limit",
+            "No Limit",
+            "No Limit"
+          ],
+          [
+            "Shell(SSH) Access",
+            "No",
+            "Yes",
+            "Yes",
+            "Yes"
+          ],
+          [
+            "cPanel (Control Panel)",
+            "Yes",
+            "Yes",
+            "Yes",
+            "Yes"
+          ],
+          [
+            "SSL Certificate",
+            "Free",
+            "Free",
+            "Free",
+            "Free"
+          ],
+          [
+            "Litespeed with LS-Cache",
+            "Yes",
+            "Yes",
+            "Yes",
+            "Yes"
+          ],
+          [
+            "3d Daily Data Backup",
+            "Yes",
+            "Yes",
+            "Yes",
+            "Yes"
+          ],
+          [
+            "Server Location",
+            "Singapore",
+            "Singapore",
+            "Singapore",
+            "Singapore"
+          ]
+        ]
+      }
+    ],
+    "faqs": [
+      {
+        "question": "What is a domain name?",
+        "answer": "A domain name is your website’s address on the internet, like www.example.com. You need one to link your website to a hosting service. If you don’t already have one, we can help you purchase and set it up."
+      },
+      {
+        "question": "What is Shared Hosting?",
+        "answer": "Shared Hosting is one of the most popular hosting packages because it provides an affordable way to get your website online. Shared Hosting works by allowing multiple users to share space on a single server maintained by the hosting provider"
+      },
+      {
+        "question": "How do I choose the right hosting plan for my website?",
+        "answer": "Think about the size of your website, expected traffic, and the resources you need. If you’re unsure, our team at ServerAnywhere can help you select the perfect plan!"
+      },
+      {
+        "question": "Can I transfer my existing website to ServerAnywhere?",
+        "answer": "Yes! Our migration tools and expert support make it easy to transfer your website from another host to ServerAnywhere with minimal downtime."
+      },
+      {
+        "question": "What is uptime, and what uptime guarantee does ServerAnywhere offer?",
+        "answer": "Uptime refers to the amount of time your website is accessible online. ServerAnywhere guarantees 99.9% uptime to ensure your site is always available."
+      },
+      {
+        "question": "How can I contact ServerAnywhere support?",
+        "answer": "We offer customer support via live chat, email, or phone. Our expert team is always available to assist you with any technical issues or questions."
+      },
+      {
+        "question": "Can I upgrade or downgrade my hosting plan later?",
+        "answer": "Absolutely! ServerAnywhere offers flexible hosting plans that can be upgraded or downgraded to match the growth of your website."
+      },
+      {
+        "question": "What are the payment options available for hosting?",
+        "answer": "ServerAnywhere accepts various payment methods, including Bkash, Nagad, Rocket, Upay, Bank Transfer, Wise Transfer, Global Bank Transfer, PayPal, Crypto and more. You can choose the one that works best for you."
+      }
+    ],
+    "warning": "",
+    "featureTitle": "All Plans Include",
+    "textSections": []
+  },
+  {
+    "slug": "reseller-hosting",
+    "title": "BDIX Reseller Hosting",
+    "category": "Web Hosting",
+    "description": "Reseller Starter",
+    "plans": [
+      {
+        "name": "Reseller Starter",
+        "price": 1349,
+        "currency": "৳",
+        "period": "month",
+        "features": [
+          "20 cPanel Accounts",
+          "50 GB NVMe Storage",
+          "Unmetered bandwidth",
+          "Host unlimited domains",
+          "Unlimited Database",
+          "Unlimited email accounts",
+          "Litespeed & LS Cache",
+          "Private Name Servers",
+          "cPane+WHM",
+          "Free SSL (Let's Encrypt)",
+          "White Level Branding",
+          "CloudLinux",
+          "Jetbackup5",
+          "WP Toolkit",
+          "Softaculous",
+          "imunify360"
+        ],
+        "orderUrl": "https://my.serveranywhere.net/index.php?rp=/store/reseller-hosting/reseller-starter",
+        "featured": false
+      },
+      {
+        "name": "Reseller Standard",
+        "price": 2579,
+        "currency": "৳",
+        "period": "month",
+        "features": [
+          "40 cPanel Accounts",
+          "100 GB NVMe Storage",
+          "Unmetered bandwidth",
+          "Host unlimited domains",
+          "Unlimited Database",
+          "Unlimited email accounts",
+          "Litespeed & LS Cache",
+          "Private Name Servers",
+          "cPane+WHM",
+          "Free SSL (Let's Encrypt)",
+          "White Level Branding",
+          "CloudLinux",
+          "Jetbackup5",
+          "WP Toolkit",
+          "Softaculous",
+          "imunify360"
+        ],
+        "orderUrl": "https://my.serveranywhere.net/index.php?rp=/store/reseller-hosting/reseller-standard",
+        "featured": false
+      },
+      {
+        "name": "Reseller Advance",
+        "price": 4409,
+        "currency": "৳",
+        "period": "month",
+        "features": [
+          "80 cPanel Accounts",
+          "150 GB NVMe Storage",
+          "Unmetered bandwidth",
+          "Host unlimited domains",
+          "Unlimited Database",
+          "Unlimited email accounts",
+          "Litespeed & LS Cache",
+          "Private Name Servers",
+          "cPane+WHM",
+          "Free SSL (Let's Encrypt)",
+          "White Level Branding",
+          "CloudLinux",
+          "Jetbackup5",
+          "WP Toolkit",
+          "Softaculous",
+          "imunify360"
+        ],
+        "orderUrl": "https://my.serveranywhere.net/index.php?rp=/store/reseller-hosting/reseller-advance",
+        "featured": false
+      }
+    ],
+    "notices": [],
+    "features": [],
+    "tables": [],
+    "faqs": [],
+    "warning": "",
+    "featureTitle": "",
+    "textSections": []
+  },
+  {
+    "slug": "m-bdix-vps",
+    "title": "BDIX Memory Optimized VPS",
+    "category": "VPS",
+    "description": "Next-Gen VPS Hosting",
+    "plans": [
+      {
+        "name": "SA-BD-VPS-12-20A",
+        "price": 399,
+        "currency": "৳",
+        "period": "month",
+        "features": [
+          "1 vCPUs",
+          "2 GB RAM",
+          "20 GB SSD",
+          "2 TB Traffic",
+          "1 Gbps BDIX (UpTo)",
+          "100 Mbps (UpTo)",
+          "1 Dedicated IPv4",
+          "Self Managed"
+        ],
+        "orderUrl": "https://my.serveranywhere.net/index.php?rp=/store/bdix-memory-optimised-vps/sa-bd-vps-12-20a",
+        "featured": false
+      },
+      {
+        "name": "SA-BD-VPS-24-40A",
+        "price": 449,
+        "currency": "৳",
+        "period": "month",
+        "features": [
+          "2 vCPUs",
+          "4 GB RAM",
+          "40 GB SSD",
+          "3 TB Traffic",
+          "1 Gbps BDIX (UpTo)",
+          "100 Mbps (UpTo)",
+          "1 Dedicated IPv4",
+          "Self Managed"
+        ],
+        "orderUrl": "https://my.serveranywhere.net/index.php?rp=/store/bdix-memory-optimised-vps/sa-bd-vps-24-40a",
+        "featured": false
+      },
+      {
+        "name": "SA-BD-VPS-28-80A",
+        "price": 999,
+        "currency": "৳",
+        "period": "month",
+        "features": [
+          "2 vCPUs",
+          "8 GB RAM",
+          "80 GB SSD",
+          "4 TB Traffic",
+          "1 Gbps BDIX (UpTo)",
+          "100 Mbps (UpTo)",
+          "1 Dedicated IPv4",
+          "Self Managed"
+        ],
+        "orderUrl": "https://my.serveranywhere.net/index.php?rp=/store/bdix-memory-optimised-vps/sa-bd-vps-28-80a",
+        "featured": false
+      },
+      {
+        "name": "SA-BD-VPS-48-80A",
+        "price": 1099,
+        "currency": "৳",
+        "period": "month",
+        "features": [
+          "4 vCPUs",
+          "8 GB RAM",
+          "80 GB SSD",
+          "4 TB Traffic",
+          "1 Gbps BDIX (UpTo)",
+          "100 Mbps (UpTo)",
+          "1 Dedicated IPv4",
+          "Self Managed"
+        ],
+        "orderUrl": "https://my.serveranywhere.net/index.php?rp=/store/bdix-memory-optimised-vps/sa-bd-vps-48-80a",
+        "featured": false
+      },
+      {
+        "name": "SA-BD-VPS-416-100A",
+        "price": 1399,
+        "currency": "৳",
+        "period": "month",
+        "features": [
+          "4 vCPUs",
+          "16 GB RAM",
+          "100 GB SSD",
+          "5 TB Traffic",
+          "1 Gbps BDIX (UpTo)",
+          "100 Mbps (UpTo)",
+          "1 Dedicated IPv4",
+          "Self Managed"
+        ],
+        "orderUrl": "https://my.serveranywhere.net/index.php?rp=/store/bdix-memory-optimised-vps/sa-bd-vps-416-100a",
+        "featured": false
+      },
+      {
+        "name": "SA-BD-VPS-816-150A",
+        "price": 1699,
+        "currency": "৳",
+        "period": "month",
+        "features": [
+          "8 vCPUs",
+          "16 GB RAM",
+          "150 GB SSD",
+          "5 TB Traffic",
+          "1 Gbps BDIX (UpTo)",
+          "100 Mbps (UpTo)",
+          "1 Dedicated IPv4",
+          "Self Managed"
+        ],
+        "orderUrl": "https://my.serveranywhere.net/index.php?rp=/store/bdix-memory-optimised-vps/sa-bd-vps-816-150a",
+        "featured": false
+      },
+      {
+        "name": "SA-BD-VPS-832-200A",
+        "price": 2999,
+        "currency": "৳",
+        "period": "month",
+        "features": [
+          "8 vCPUs",
+          "32 GB RAM",
+          "200 GB SSD",
+          "6 TB Traffic",
+          "1 Gbps BDIX (UpTo)",
+          "100 Mbps (UpTo)",
+          "1 Dedicated IPv4",
+          "Self Managed"
+        ],
+        "orderUrl": "https://my.serveranywhere.net/index.php?rp=/store/bdix-memory-optimised-vps/sa-bd-vps-832-200a",
+        "featured": false
+      },
+      {
+        "name": "SA-BD-VPS-1632-250A",
+        "price": 3299,
+        "currency": "৳",
+        "period": "month",
+        "features": [
+          "16 vCPUs",
+          "32 GB RAM",
+          "250 GB SSD",
+          "8 TB Traffic",
+          "1 Gbps BDIX (UpTo)",
+          "100 Mbps (UpTo)",
+          "1 Dedicated IPv4",
+          "Self Managed"
+        ],
+        "orderUrl": "https://my.serveranywhere.net/index.php?rp=/store/bdix-memory-optimised-vps/sa-bd-vps-1632-250a",
+        "featured": false
+      }
+    ],
+    "notices": [
+      "Enjoy a 20% discount when you choose a yearly plan—save more on your hosting!"
+    ],
+    "features": [
+      {
+        "title": "Enterprise Hardware",
+        "description": "We use only enterprise-grade hardware to ensure your product runs smoothly and reliably at all times."
+      },
+      {
+        "title": "Root Access",
+        "description": "We provide full root access to your VPS, giving you complete control to customize it according to your needs without limitations."
+      },
+      {
+        "title": "Exceptional Support",
+        "description": "Our support team is available 24/7 to assist you with any questions or concerns about your service."
+      },
+      {
+        "title": "Instant Setup",
+        "description": "Your service is set up instantly once payment is received, faster than a rocket blasting off to the moon."
+      },
+      {
+        "title": "Dedicated KVM Resources",
+        "description": "KVM virtualization, you get full 24/7 access to dedicated resources, with no CPU fair-usage policy and no overselling."
+      },
+      {
+        "title": "Easy To Use Control Panel",
+        "description": "Manage your VPS effortlessly through our intuitive control panel—reinstall your OS, view stats, reset passwords, and more!"
+      }
+    ],
+    "tables": [],
+    "faqs": [
+      {
+        "question": "Which operating systems are available for use?",
+        "answer": "We provide a wide selection of operating systems to choose from, including Ubuntu, CentOS, Debian, and many more."
+      },
+      {
+        "question": "Will I have root access to my VPS?",
+        "answer": "Yes, every VPS comes with root access to the server, along with SSH and SFTP/FTP support for easy management."
+      },
+      {
+        "question": "What technical expertise is needed for Unmanaged VPS hosting?",
+        "answer": "Unmanaged VPS hosting is ideal for users with advanced technical skills, including experience in server management, software installations, and troubleshooting."
+      },
+      {
+        "question": "Do we offer any support for Unmanaged VPS hosting?",
+        "answer": "Unmanaged VPS hosting does not come with direct support from ServerAnywhere. However, you can use google to access detailed documentation and knowledge base for guidance and troubleshooting."
+      },
+      {
+        "question": "Is backup included with Unmanaged VPS hosting?",
+        "answer": "Backups for Unmanaged VPS hosting are your responsibility. We do not offer any backup services."
+      }
+    ],
+    "warning": "These VPS plans are not sold for gaming purposes.",
+    "featureTitle": "VPS Hosting Features",
+    "textSections": []
+  },
+  {
+    "slug": "c-bdix-vps",
+    "title": "BDIX CPU Optimized VPS",
+    "category": "VPS",
+    "description": "Next-Gen VPS Hosting",
+    "plans": [
+      {
+        "name": "SA-BD-VPS-11-20A",
+        "price": 349,
+        "currency": "৳",
+        "period": "month",
+        "features": [
+          "1 vCPUs",
+          "1 GB RAM",
+          "20 GB SSD",
+          "2 TB Traffic",
+          "1 Gbps BDIX (UpTo)",
+          "100 Mbps (UpTo)",
+          "1 Dedicated IPv4",
+          "Self Managed"
+        ],
+        "orderUrl": "https://my.serveranywhere.net/index.php?rp=/store/vps-server/sa-bd-vps-11-20a",
+        "featured": false
+      },
+      {
+        "name": "SA-BD-VPS-22-40A",
+        "price": 540,
+        "currency": "৳",
+        "period": "month",
+        "features": [
+          "2 vCPUs",
+          "2 GB RAM",
+          "40 GB SSD",
+          "2 TB Traffic",
+          "1 Gbps BDIX (UpTo)",
+          "100 Mbps (UpTo)",
+          "1 Dedicated IPv4",
+          "Self Managed"
+        ],
+        "orderUrl": "https://my.serveranywhere.net/index.php?rp=/store/vps-server/sa-bd-vps-22-40a",
+        "featured": false
+      },
+      {
+        "name": "SA-BD-VPS-44-40A",
+        "price": 630,
+        "currency": "৳",
+        "period": "month",
+        "features": [
+          "4 vCPUs",
+          "4 GB RAM",
+          "40 GB SSD",
+          "3 TB Traffic",
+          "1 Gbps BDIX (UpTo)",
+          "100 Mbps (UpTo)",
+          "1 Dedicated IPv4",
+          "Self Managed"
+        ],
+        "orderUrl": "https://my.serveranywhere.net/index.php?rp=/store/vps-server/sa-bd-vps-44-40a",
+        "featured": false
+      },
+      {
+        "name": "SA-BD-VPS-88-100A",
+        "price": 1199,
+        "currency": "৳",
+        "period": "month",
+        "features": [
+          "8 vCPUs",
+          "8 GB RAM",
+          "100 GB SSD",
+          "4 TB Traffic",
+          "1 Gbps BDIX (UpTo)",
+          "100 Mbps (UpTo)",
+          "1 Dedicated IPv4",
+          "Self Managed"
+        ],
+        "orderUrl": "https://my.serveranywhere.net/index.php?rp=/store/vps-server/sa-bd-vps-88-100a",
+        "featured": false
+      },
+      {
+        "name": "SA-BD-VPS-1212-120A",
+        "price": 1940,
+        "currency": "৳",
+        "period": "month",
+        "features": [
+          "12 vCPUs",
+          "12 GB RAM",
+          "120 GB SSD",
+          "6 TB Traffic",
+          "1 Gbps BDIX (UpTo)",
+          "100 Mbps (UpTo)",
+          "1 Dedicated IPv4",
+          "Self Managed"
+        ],
+        "orderUrl": "https://my.serveranywhere.net/index.php?rp=/store/vps-server/sa-bd-vps-1212-100a",
+        "featured": false
+      },
+      {
+        "name": "SA-BD-VPS-1616-150A",
+        "price": 2440,
+        "currency": "৳",
+        "period": "month",
+        "features": [
+          "16 vCPUs",
+          "16 GB RAM",
+          "150 GB SSD",
+          "6 TB Traffic",
+          "1 Gbps BDIX (UpTo)",
+          "100 Mbps (UpTo)",
+          "1 Dedicated IPv4",
+          "Self Managed"
+        ],
+        "orderUrl": "https://my.serveranywhere.net/index.php?rp=/store/vps-server/sa-bd-vps-1616-150a",
+        "featured": false
+      },
+      {
+        "name": "SA-BD-VPS-2424-200A",
+        "price": 5980,
+        "currency": "৳",
+        "period": "month",
+        "features": [
+          "24 vCPUs",
+          "24 GB RAM",
+          "200 GB SSD",
+          "7 TB Traffic",
+          "1 Gbps BDIX (UpTo)",
+          "100 Mbps (UpTo)",
+          "1 Dedicated IPv4",
+          "Self Managed"
+        ],
+        "orderUrl": "https://my.serveranywhere.net/index.php?rp=/store/vps-server/sa-bd-vps-2424-200a",
+        "featured": false
+      }
+    ],
+    "notices": [
+      "Enjoy a 20% discount when you choose a yearly plan—save more on your hosting!"
+    ],
+    "features": [
+      {
+        "title": "Enterprise Hardware",
+        "description": "We use only enterprise-grade hardware to ensure your product runs smoothly and reliably at all times."
+      },
+      {
+        "title": "Root Access",
+        "description": "We provide full root access to your VPS, giving you complete control to customize it according to your needs without limitations."
+      },
+      {
+        "title": "Exceptional Support",
+        "description": "Our support team is available 24/7 to assist you with any questions or concerns about your service."
+      },
+      {
+        "title": "Instant Setup",
+        "description": "Your service is set up instantly once payment is received, faster than a rocket blasting off to the moon."
+      },
+      {
+        "title": "Dedicated KVM Resources",
+        "description": "KVM virtualization, you get full 24/7 access to dedicated resources, with no CPU fair-usage policy and no overselling."
+      },
+      {
+        "title": "Easy To Use Control Panel",
+        "description": "Manage your VPS effortlessly through our intuitive control panel—reinstall your OS, view stats, reset passwords, and more!"
+      }
+    ],
+    "tables": [],
+    "faqs": [
+      {
+        "question": "Which operating systems are available for use?",
+        "answer": "We provide a wide selection of operating systems to choose from, including Ubuntu, CentOS, Debian, and many more."
+      },
+      {
+        "question": "Will I have root access to my VPS?",
+        "answer": "Yes, every VPS comes with root access to the server, along with SSH and SFTP/FTP support for easy management."
+      },
+      {
+        "question": "What technical expertise is needed for Unmanaged VPS hosting?",
+        "answer": "Unmanaged VPS hosting is ideal for users with advanced technical skills, including experience in server management, software installations, and troubleshooting."
+      },
+      {
+        "question": "Do we offer any support for Unmanaged VPS hosting?",
+        "answer": "Unmanaged VPS hosting does not come with direct support from ServerAnywhere. However, you can use google to access detailed documentation and knowledge base for guidance and troubleshooting."
+      },
+      {
+        "question": "Is backup included with Unmanaged VPS hosting?",
+        "answer": "Backups for Unmanaged VPS hosting are your responsibility. We do not offer any backup services."
+      }
+    ],
+    "warning": "These VPS plans are not sold for gaming purposes.",
+    "featureTitle": "VPS Hosting Features",
+    "textSections": []
+  },
+  {
+    "slug": "ddr4-vps",
+    "title": "BDIX DDR4 VPS",
+    "category": "VPS",
+    "description": "DDR4 VPS Server",
+    "plans": [
+      {
+        "name": "SA-BD-VPS-12-30B",
+        "price": 450,
+        "currency": "৳",
+        "period": "month",
+        "features": [
+          "1 Dedicated vCPU Intel Xeon",
+          "2 GB - DDR4",
+          "30 GB - NVMe SSD Storage",
+          "2 TB Bandwidth Limit",
+          "1 Gbps BDIX Network Speed (UpTo)",
+          "100 Mbps int Network Speed (UpTo)",
+          "Root access",
+          "1 Dedicated IPv4",
+          "Self Managed"
+        ],
+        "orderUrl": "https://my.serveranywhere.net/index.php?rp=/store/ddr4-vps/sa-bd-vps-12-30b",
+        "featured": false
+      },
+      {
+        "name": "SA-BD-VPS-24-50B",
+        "price": 599,
+        "currency": "৳",
+        "period": "month",
+        "features": [
+          "2 Dedicated vCPU Intel Xeon",
+          "4 GB - DDR4",
+          "50 GB - NVMe SSD Storage",
+          "2 TB Bandwidth Limit",
+          "1 Gbps BDIX Network Speed (UpTo)",
+          "100 Mbps int Network Speed (UpTo)",
+          "Root access",
+          "1 Dedicated IPv4",
+          "Self Managed"
+        ],
+        "orderUrl": "https://my.serveranywhere.net/index.php?rp=/store/ddr4-vps/sa-bd-vps-24-50b",
+        "featured": false
+      },
+      {
+        "name": "SA-BD-VPS-44-60B",
+        "price": 780,
+        "currency": "৳",
+        "period": "month",
+        "features": [
+          "4 Dedicated vCPU Intel Xeon",
+          "4 GB - DDR4",
+          "60 GB - NVMe SSD Storage",
+          "3 TB Bandwidth Limit",
+          "1 Gbps BDIX Network Speed (UpTo)",
+          "100 Mbps int Network Speed (UpTo)",
+          "Root access",
+          "1 Dedicated IPv4",
+          "Self Managed"
+        ],
+        "orderUrl": "https://my.serveranywhere.net/index.php?rp=/store/ddr4-vps/sa-bd-vps-44-60b",
+        "featured": false
+      },
+      {
+        "name": "SA-BD-VPS-48-80B",
+        "price": 1299,
+        "currency": "৳",
+        "period": "month",
+        "features": [
+          "4 Dedicated vCPU Intel Xeon",
+          "8 GB - DDR4",
+          "80 GB - NVMe SSD Storage",
+          "4 TB Bandwidth Limit",
+          "1 Gbps BDIX Network Speed (UpTo)",
+          "100 Mbps int Network Speed (UpTo)",
+          "Root access",
+          "1 Dedicated IPv4",
+          "Self Managed"
+        ],
+        "orderUrl": "https://my.serveranywhere.net/index.php?rp=/store/ddr4-vps/sa-bd-vps-48-80b",
+        "featured": false
+      },
+      {
+        "name": "SA-BD-VPS-816-110B",
+        "price": 1799,
+        "currency": "৳",
+        "period": "month",
+        "features": [
+          "8 Dedicated vCPU Intel Xeon",
+          "16 GB - DDR4",
+          "110 GB - NVMe SSD Storage",
+          "5 TB Bandwidth Limit",
+          "1 Gbps BDIX Network Speed (UpTo)",
+          "100 Mbps int Network Speed (UpTo)",
+          "Root access",
+          "1 Dedicated IPv4",
+          "Self Managed"
+        ],
+        "orderUrl": "https://my.serveranywhere.net/index.php?rp=/store/ddr4-vps/sa-bd-vps-816-110b",
+        "featured": false
+      },
+      {
+        "name": "SA-BD-VPS-1224-150B",
+        "price": 2499,
+        "currency": "৳",
+        "period": "month",
+        "features": [
+          "12 Dedicated vCPU Intel Xeon",
+          "24 GB - DDR4",
+          "150 GB - NVMe SSD Storage",
+          "6 TB Bandwidth Limit",
+          "1 Gbps BDIX Network Speed (UpTo)",
+          "100 Mbps int Network Speed (UpTo)",
+          "Root access",
+          "1 Dedicated IPv4",
+          "Self Managed"
+        ],
+        "orderUrl": "https://my.serveranywhere.net/index.php?rp=/store/ddr4-vps/sa-bd-vps-1224-150b",
+        "featured": false
+      },
+      {
+        "name": "SA-BD-VPS-1632-200B",
+        "price": 3499,
+        "currency": "৳",
+        "period": "month",
+        "features": [
+          "16 Dedicated vCPU Intel Xeon",
+          "36 GB - DDR4",
+          "200 GB - NVMe SSD Storage",
+          "8 TB Bandwidth Limit",
+          "1 Gbps BDIX Network Speed (UpTo)",
+          "100 Mbps int Network Speed (UpTo)",
+          "Root access",
+          "1 Dedicated IPv4",
+          "Self Managed"
+        ],
+        "orderUrl": "https://my.serveranywhere.net/index.php?rp=/store/ddr4-vps/sa-bd-vps-1632-200b",
+        "featured": false
+      }
+    ],
+    "notices": [
+      "Enjoy a 20% discount when you choose a yearly plan—save more on your hosting!"
+    ],
+    "features": [
+      {
+        "title": "Enterprise Hardware",
+        "description": "We use only enterprise-grade hardware to ensure your product runs smoothly and reliably at all times."
+      },
+      {
+        "title": "Root Access",
+        "description": "We provide full root access to your VPS, giving you complete control to customize it according to your needs without limitations."
+      },
+      {
+        "title": "Exceptional Support",
+        "description": "Our support team is available 24/7 to assist you with any questions or concerns about your service."
+      },
+      {
+        "title": "Instant Setup",
+        "description": "Your service is set up instantly once payment is received, faster than a rocket blasting off to the moon."
+      },
+      {
+        "title": "Dedicated KVM Resources",
+        "description": "KVM virtualization, you get full 24/7 access to dedicated resources, with no CPU fair-usage policy and no overselling."
+      },
+      {
+        "title": "Easy To Use Control Panel",
+        "description": "Manage your VPS effortlessly through our intuitive control panel—reinstall your OS, view stats, reset passwords, and more!"
+      }
+    ],
+    "tables": [],
+    "faqs": [
+      {
+        "question": "Which operating systems are available for use?",
+        "answer": "We provide a wide selection of operating systems to choose from, including Ubuntu, CentOS, Debian, and many more."
+      },
+      {
+        "question": "Will I have root access to my VPS?",
+        "answer": "Yes, every VPS comes with root access to the server, along with SSH and SFTP/FTP support for easy management."
+      },
+      {
+        "question": "What technical expertise is needed for Unmanaged VPS hosting?",
+        "answer": "Unmanaged VPS hosting is ideal for users with advanced technical skills, including experience in server management, software installations, and troubleshooting."
+      },
+      {
+        "question": "Do we offer any support for Unmanaged VPS hosting?",
+        "answer": "Unmanaged VPS hosting does not come with direct support from ServerAnywhere. However, you can use google to access detailed documentation and knowledge base for guidance and troubleshooting."
+      },
+      {
+        "question": "Is backup included with Unmanaged VPS hosting?",
+        "answer": "Backups for Unmanaged VPS hosting are your responsibility. We do not offer any backup services."
+      }
+    ],
+    "warning": "These VPS plans are not sold for gaming purposes.",
+    "featureTitle": "VPS Hosting Features",
+    "textSections": []
+  },
+  {
+    "slug": "amd-ryzen-vps",
+    "title": "AMD Ryzen VPS",
+    "category": "VPS",
+    "description": "AMD Ryzen VPS Server",
+    "plans": [
+      {
+        "name": "SA-BD-VPS-24-40D",
+        "price": 715,
+        "currency": "৳",
+        "period": "month",
+        "features": [
+          "AMD Ryzen",
+          "2 Dedicated vCPU",
+          "4 GB DDR4",
+          "40 GB NVMe 3.0 SSD",
+          "2 TB Traffic",
+          "1 Gbps BDIX",
+          "100 Mbps",
+          "1 Dedicated IPv4"
+        ],
+        "orderUrl": "https://my.serveranywhere.net/index.php?rp=/store/amd-ryzen-vps/sa-bd-vps-24-40d",
+        "featured": false
+      },
+      {
+        "name": "SA-BD-VPS-48-85D",
+        "price": 1375,
+        "currency": "৳",
+        "period": "month",
+        "features": [
+          "AMD Ryzen",
+          "4 Dedicated vCPU",
+          "8 GB DDR4",
+          "85 GB NVMe 3.0 SSD",
+          "4 TB Traffic",
+          "1 Gbps BDIX (UpTo)",
+          "100 Mbps (UpTo)",
+          "1 Dedicated IPv4"
+        ],
+        "orderUrl": "https://my.serveranywhere.net/index.php?rp=/store/amd-ryzen-vps/sa-bd-vps-48-85d",
+        "featured": false
+      },
+      {
+        "name": "SA-BD-VPS-616-125D",
+        "price": 2585,
+        "currency": "৳",
+        "period": "month",
+        "features": [
+          "AMD Ryzen",
+          "6 Dedicated vCPU",
+          "16 GB DDR4",
+          "125 GB NVMe 3.0 SSD",
+          "6 TB Traffic",
+          "1 Gbps BDIX (UpTo)",
+          "100 Mbps (UpTo)",
+          "1 Dedicated IPv4"
+        ],
+        "orderUrl": "https://my.serveranywhere.net/index.php?rp=/store/amd-ryzen-vps/sa-bd-vps-616-125d",
+        "featured": false
+      },
+      {
+        "name": "SA-BD-VPS-832-250D",
+        "price": 5115,
+        "currency": "৳",
+        "period": "month",
+        "features": [
+          "AMD Ryzen",
+          "8 Dedicated vCPU",
+          "32 GB DDR4",
+          "250 GB NVMe 3.0 SSD",
+          "10 TB Traffic",
+          "1 Gbps BDIX (UpTo)",
+          "100 Mbps (UpTo)",
+          "1 Dedicated IPv4"
+        ],
+        "orderUrl": "https://my.serveranywhere.net/index.php?rp=/store/amd-ryzen-vps/sa-bd-vps-832-250d",
+        "featured": false
+      },
+      {
+        "name": "SA-BD-VPS-1048-400D",
+        "price": 7425,
+        "currency": "৳",
+        "period": "month",
+        "features": [
+          "AMD Ryzen",
+          "10 Dedicated vCPU",
+          "48 GB DDR4",
+          "400 GB NVMe 3.0 SSD",
+          "12 TB Traffic",
+          "1 Gbps BDIX (UpTo)",
+          "100 Mbps (UpTo)",
+          "1 Dedicated IPv4"
+        ],
+        "orderUrl": "https://my.serveranywhere.net/index.php?rp=/store/amd-ryzen-vps/sa-bd-vps-1048-400d",
+        "featured": false
+      }
+    ],
+    "notices": [
+      "Enjoy a 20% discount when you choose a yearly plan—save more on your hosting!"
+    ],
+    "features": [
+      {
+        "title": "Enterprise Hardware",
+        "description": "We use only enterprise-grade hardware to ensure your product runs smoothly and reliably at all times."
+      },
+      {
+        "title": "Root Access",
+        "description": "We provide full root access to your VPS, giving you complete control to customize it according to your needs without limitations."
+      },
+      {
+        "title": "Exceptional Support",
+        "description": "Our support team is available 24/7 to assist you with any questions or concerns about your service."
+      },
+      {
+        "title": "Instant Setup",
+        "description": "Your service is set up instantly once payment is received, faster than a rocket blasting off to the moon."
+      },
+      {
+        "title": "Dedicated KVM Resources",
+        "description": "KVM virtualization, you get full 24/7 access to dedicated resources, with no CPU fair-usage policy and no overselling."
+      },
+      {
+        "title": "Easy To Use Control Panel",
+        "description": "Manage your VPS effortlessly through our intuitive control panel—reinstall your OS, view stats, reset passwords, and more!"
+      }
+    ],
+    "tables": [],
+    "faqs": [
+      {
+        "question": "Which operating systems are available for use?",
+        "answer": "We provide a wide selection of operating systems to choose from, including Ubuntu, CentOS, Debian, and many more."
+      },
+      {
+        "question": "Will I have root access to my VPS?",
+        "answer": "Yes, every VPS comes with root access to the server, along with SSH and SFTP/FTP support for easy management."
+      },
+      {
+        "question": "What technical expertise is needed for Unmanaged VPS hosting?",
+        "answer": "Unmanaged VPS hosting is ideal for users with advanced technical skills, including experience in server management, software installations, and troubleshooting."
+      },
+      {
+        "question": "Do we offer any support for Unmanaged VPS hosting?",
+        "answer": "Unmanaged VPS hosting does not come with direct support from ServerAnywhere. However, you can use google to access detailed documentation and knowledge base for guidance and troubleshooting."
+      },
+      {
+        "question": "Is backup included with Unmanaged VPS hosting?",
+        "answer": "Backups for Unmanaged VPS hosting are your responsibility. We do not offer any backup services."
+      }
+    ],
+    "warning": "These VPS plans are not sold for gaming purposes.",
+    "featureTitle": "VPS Hosting Features",
+    "textSections": []
+  },
+  {
+    "slug": "int-vps-rdp",
+    "title": "INT VPS/RDP",
+    "category": "VPS",
+    "description": "INTERNATIONAL VPS/RDP",
+    "plans": [
+      {
+        "name": "SA-INT-VPS-34-40R",
+        "price": 1200,
+        "currency": "৳",
+        "period": "month",
+        "features": [
+          "3 vCPU",
+          "4 GB - RAM",
+          "40 GB - SSD Storage",
+          "2 TB Bandwidth Limit",
+          "Root access",
+          "1 Dedicated IPv4",
+          "Self Managed",
+          "Location - USA, Germany, Netherland"
+        ],
+        "orderUrl": "https://my.serveranywhere.net/index.php?rp=/store/epyc-kvm-vps/kvm-3c-4g-40g",
+        "featured": false
+      },
+      {
+        "name": "SA-INT-VPS-44-40R",
+        "price": 1320,
+        "currency": "৳",
+        "period": "month",
+        "features": [
+          "4 vCPU",
+          "4 GB - RAM",
+          "50 GB - SSD Storage",
+          "3 TB Bandwidth Limit",
+          "Root access",
+          "1 Dedicated IPv4",
+          "Self Managed",
+          "Location - USA, Germany, Netherland"
+        ],
+        "orderUrl": "https://my.serveranywhere.net/index.php?rp=/store/epyc-kvm-vps/kvm-4c-4g-40g",
+        "featured": false
+      },
+      {
+        "name": "SA-INT-VPS-48-80R",
+        "price": 2400,
+        "currency": "৳",
+        "period": "month",
+        "features": [
+          "4 vCPU",
+          "8 GB - RAM",
+          "80 GB - SSD Storage",
+          "3 TB Bandwidth Limit",
+          "Root access",
+          "1 Dedicated IPv4",
+          "Self Managed",
+          "Location - USA, Germany, Netherland"
+        ],
+        "orderUrl": "https://my.serveranywhere.net/index.php?rp=/store/epyc-kvm-vps/kvm-4c-8g-80g",
+        "featured": false
+      },
+      {
+        "name": "SA-INT-VPS-68-80R",
+        "price": 2880,
+        "currency": "৳",
+        "period": "month",
+        "features": [
+          "6 vCPU",
+          "8 GB - RAM",
+          "80 GB - SSD Storage",
+          "4 TB Bandwidth Limit",
+          "Root access",
+          "1 Dedicated IPv4",
+          "Self Managed",
+          "Location - USA, Germany, Netherland"
+        ],
+        "orderUrl": "https://my.serveranywhere.net/index.php?rp=/store/epyc-kvm-vps/kvm-6c-8g-80g",
+        "featured": false
+      },
+      {
+        "name": "SA-INT-VPS-616-160R",
+        "price": 3600,
+        "currency": "৳",
+        "period": "month",
+        "features": [
+          "6 vCPU",
+          "16 GB - RAM",
+          "160 GB - SSD Storage",
+          "6 TB Bandwidth Limit",
+          "Root access",
+          "1 Dedicated IPv4",
+          "Self Managed",
+          "Location - USA, Germany, Netherland"
+        ],
+        "orderUrl": "https://my.serveranywhere.net/index.php?rp=/store/epyc-kvm-vps/kvm-6c-16g-160g",
+        "featured": false
+      },
+      {
+        "name": "SA-INT-VPS-816-160R",
+        "price": 4375,
+        "currency": "৳",
+        "period": "month",
+        "features": [
+          "8 vCPU",
+          "16 GB - RAM",
+          "160 GB - SSD Storage",
+          "6 TB Bandwidth Limit",
+          "Root access",
+          "1 Dedicated IPv4",
+          "Self Managed",
+          "Location - USA, Germany, Netherland"
+        ],
+        "orderUrl": "https://my.serveranywhere.net/index.php?rp=/store/epyc-kvm-vps/kvm-8c-16g-160g",
+        "featured": false
+      },
+      {
+        "name": "SA-INT-VPS-832-320R",
+        "price": 6600,
+        "currency": "৳",
+        "period": "month",
+        "features": [
+          "8 vCPU",
+          "32 GB - DDR4",
+          "320 GB - SSD Storage",
+          "8 TB Bandwidth Limit",
+          "Root access",
+          "1 Dedicated IPv4",
+          "Self Managed",
+          "Location - USA, Germany, Netherland"
+        ],
+        "orderUrl": "https://my.serveranywhere.net/index.php?rp=/store/epyc-kvm-vps/sa-int-vps-832-320r",
+        "featured": false
+      }
+    ],
+    "notices": [
+      "Enjoy a 20% discount when you choose a yearly plan—save more on your hosting!"
+    ],
+    "features": [
+      {
+        "title": "Enterprise Hardware",
+        "description": "We use only enterprise-grade hardware to ensure your product runs smoothly and reliably at all times."
+      },
+      {
+        "title": "Root Access",
+        "description": "We provide full root access to your VPS, giving you complete control to customize it according to your needs without limitations."
+      },
+      {
+        "title": "Exceptional Support",
+        "description": "Our support team is available 24/7 to assist you with any questions or concerns about your service."
+      },
+      {
+        "title": "Instant Setup",
+        "description": "Your service is set up instantly once payment is received, faster than a rocket blasting off to the moon."
+      },
+      {
+        "title": "Dedicated KVM Resources",
+        "description": "KVM virtualization, you get full 24/7 access to dedicated resources, with no CPU fair-usage policy and no overselling."
+      },
+      {
+        "title": "Easy To Use Control Panel",
+        "description": "Manage your VPS effortlessly through our intuitive control panel—reinstall your OS, view stats, reset passwords, and more!"
+      }
+    ],
+    "tables": [],
+    "faqs": [
+      {
+        "question": "Which operating systems are available for use?",
+        "answer": "We provide a wide selection of operating systems to choose from, including Ubuntu, CentOS, Debian, and many more."
+      },
+      {
+        "question": "Will I have root access to my VPS?",
+        "answer": "Yes, every VPS comes with root access to the server, along with SSH and SFTP/FTP support for easy management."
+      },
+      {
+        "question": "What technical expertise is needed for Unmanaged VPS hosting?",
+        "answer": "Unmanaged VPS hosting is ideal for users with advanced technical skills, including experience in server management, software installations, and troubleshooting."
+      },
+      {
+        "question": "Do we offer any support for Unmanaged VPS hosting?",
+        "answer": "Unmanaged VPS hosting does not come with direct support from ServerAnywhere. However, you can use google to access detailed documentation and knowledge base for guidance and troubleshooting."
+      },
+      {
+        "question": "Is backup included with Unmanaged VPS hosting?",
+        "answer": "Backups for Unmanaged VPS hosting are your responsibility. We do not offer any backup services."
+      }
+    ],
+    "warning": "These VPS plans are not sold for gaming purposes.",
+    "featureTitle": "VPS Hosting Features",
+    "textSections": []
+  },
+  {
+    "slug": "general-purpose-rdp",
+    "title": "General Purpose RDP",
+    "category": "RDP",
+    "description": "Next-Gen RDP Server",
+    "plans": [
+      {
+        "name": "SA-BD-RDP-24-50A",
+        "price": 599,
+        "currency": "৳",
+        "period": "month",
+        "features": [
+          "2 Dedicated vCPU @ 3.2 GHz",
+          "4 GB -  Memory",
+          "50 GB - SSD Storage",
+          "2 TB Bandwidth Limit",
+          "1 Gbps BDIX Network Speed (UpTo)",
+          "100 Mbps int Network Speed (UpTo)",
+          "Unlicensed windows",
+          "1 Dedicated IPv4",
+          "Self Managed"
+        ],
+        "orderUrl": "https://my.serveranywhere.net/index.php?rp=/store/genral-purpose-rdp/sa-bd-rdp-24-50a",
+        "featured": false
+      },
+      {
+        "name": "SA-BD-RDP-48-75A",
+        "price": 999,
+        "currency": "৳",
+        "period": "month",
+        "features": [
+          "4 Dedicated vCPU @ 3.2 GHz",
+          "8 GB -  Memory",
+          "75 GB - SSD Storage",
+          "3 TB Bandwidth Limit",
+          "1 Gbps BDIX Network Speed (UpTo)",
+          "100 Mbps int Network Speed (UpTo)",
+          "Unlicensed windows",
+          "1 Dedicated IPv4",
+          "Self Managed"
+        ],
+        "orderUrl": "https://my.serveranywhere.net/index.php?rp=/store/genral-purpose-rdp/sa-bd-rdp-48-75a",
+        "featured": false
+      },
+      {
+        "name": "SA-BD-RDP-816-150A",
+        "price": 1699,
+        "currency": "৳",
+        "period": "month",
+        "features": [
+          "8 Dedicated vCPU @ 3.2 GHz",
+          "16 GB -  Memory",
+          "150 - SSD Storage",
+          "4 TB Bandwidth Limit",
+          "1 Gbps BDIX Network Speed (UpTo)",
+          "100 Mbps int Network Speed (UpTo)",
+          "Unlicensed windows",
+          "1 Dedicated IPv4",
+          "Self Managed"
+        ],
+        "orderUrl": "https://my.serveranywhere.net/index.php?rp=/store/genral-purpose-rdp/sa-bd-rdp-816-150a",
+        "featured": false
+      },
+      {
+        "name": "SA-BD-RDP-1632-200A",
+        "price": 3200,
+        "currency": "৳",
+        "period": "month",
+        "features": [
+          "16 Dedicated vCPU @ 3.2 GHz",
+          "32 GB - Memory",
+          "200 SSD Storage",
+          "6 TB Bandwidth Limit",
+          "1 Gbps BDIX Network Speed (UpTo)",
+          "100 Mbps int Network Speed (UpTo)",
+          "Unlicensed windows",
+          "1 Dedicated IPv4",
+          "Self Managed"
+        ],
+        "orderUrl": "https://my.serveranywhere.net/index.php?rp=/store/genral-purpose-rdp/sa-bd-rdp-1632-200a",
+        "featured": false
+      },
+      {
+        "name": "SA-BD-RDP-3264-250A",
+        "price": 6999,
+        "currency": "৳",
+        "period": "month",
+        "features": [
+          "32 Dedicated vCPU @ 3.2 GHz",
+          "64 GB - Memory",
+          "250 GB - SSD Storage",
+          "8 TB Bandwidth Limit",
+          "1 Gbps BDIX Network Speed (UpTo)",
+          "100 Mbps int Network Speed (UpTo)",
+          "Unlicensed windows",
+          "1 Dedicated IPv4",
+          "Self Managed"
+        ],
+        "orderUrl": "https://my.serveranywhere.net/index.php?rp=/store/genral-purpose-rdp/sa-bd-rdp-3264-250a",
+        "featured": false
+      }
+    ],
+    "notices": [
+      "Enjoy a 20% discount when you choose a yearly plan—save more on your hosting!"
+    ],
+    "features": [
+      {
+        "title": "Enterprise Hardware",
+        "description": "We use only enterprise-grade hardware to ensure your product runs smoothly and reliably at all times."
+      },
+      {
+        "title": "Root Access",
+        "description": "We provide full root access to your VPS, giving you complete control to customize it according to your needs without limitations."
+      },
+      {
+        "title": "Exceptional Support",
+        "description": "Our support team is available 24/7 to assist you with any questions or concerns about your service."
+      },
+      {
+        "title": "Instant Setup",
+        "description": "Your service is set up instantly once payment is received, faster than a rocket blasting off to the moon."
+      },
+      {
+        "title": "Dedicated KVM Resources",
+        "description": "KVM virtualization, you get full 24/7 access to dedicated resources, with no CPU fair-usage policy and no overselling."
+      },
+      {
+        "title": "Easy To Use Control Panel",
+        "description": "Manage your VPS effortlessly through our intuitive control panel—reinstall your OS, view stats, reset passwords, and more!"
+      }
+    ],
+    "tables": [],
+    "faqs": [
+      {
+        "question": "Which operating systems are available for use?",
+        "answer": "We provide a wide selection of operating systems to choose from, including Ubuntu, CentOS, Debian, and many more."
+      },
+      {
+        "question": "Will I have root access to my VPS?",
+        "answer": "Yes, every VPS comes with root access to the server, along with SSH and SFTP/FTP support for easy management."
+      },
+      {
+        "question": "What technical expertise is needed for Unmanaged VPS hosting?",
+        "answer": "Unmanaged VPS hosting is ideal for users with advanced technical skills, including experience in server management, software installations, and troubleshooting."
+      },
+      {
+        "question": "Do we offer any support for Unmanaged VPS hosting?",
+        "answer": "Unmanaged VPS hosting does not come with direct support from ServerAnywhere. However, you can use google to access detailed documentation and knowledge base for guidance and troubleshooting."
+      },
+      {
+        "question": "Is backup included with Unmanaged VPS hosting?",
+        "answer": "Backups for Unmanaged VPS hosting are your responsibility. We do not offer any backup services."
+      }
+    ],
+    "warning": "",
+    "featureTitle": "VPS Hosting Features",
+    "textSections": []
+  },
+  {
+    "slug": "cpu-optimized-rdp",
+    "title": "CPU-Optimized RDP",
+    "category": "RDP",
+    "description": "CPU-Optimized RDP",
+    "plans": [
+      {
+        "name": "SA-BD-RDP-44-50A",
+        "price": 699,
+        "currency": "৳",
+        "period": "month",
+        "features": [
+          "4 Dedicated vCPU @ 3.2 GHz",
+          "4 GB - Memory",
+          "50 GB - SSD Storage",
+          "2 TB Bandwidth Limit",
+          "1 Gbps BDIX Network Speed (UpTo)",
+          "100 Mbps int Network Speed (UpTo)",
+          "Unlicensed windows",
+          "1 Dedicated IPv4",
+          "Self Managed"
+        ],
+        "orderUrl": "https://my.serveranywhere.net/index.php?rp=/store/cpu-optimized-rdp/sa-bd-rdp-44-50a",
+        "featured": false
+      },
+      {
+        "name": "SA-BD-RDP-88-75A",
+        "price": 1349,
+        "currency": "৳",
+        "period": "month",
+        "features": [
+          "8 Dedicated vCPU @ 3.2 GHz",
+          "8 GB -  Memory",
+          "75 GB - SSD Storage",
+          "3 TB Bandwidth Limit",
+          "1 Gbps BDIX Network Speed (UpTo)",
+          "100 Mbps int Network Speed (UpTo)",
+          "Unlicensed windows",
+          "1 Dedicated IPv4",
+          "Self Managed"
+        ],
+        "orderUrl": "https://my.serveranywhere.net/index.php?rp=/store/cpu-optimized-rdp/sa-bd-rdp-88-75a",
+        "featured": false
+      },
+      {
+        "name": "SA-BD-RDP-1212-130A",
+        "price": 2049,
+        "currency": "৳",
+        "period": "month",
+        "features": [
+          "12 Dedicated vCPU @ 3.2 GHz",
+          "12 GB -  Memory",
+          "130 GB - SSD Storage",
+          "4 TB Bandwidth Limit",
+          "1 Gbps BDIX Network Speed (UpTo)",
+          "100 Mbps int Network Speed (UpTo)",
+          "Unlicensed windows",
+          "1 Dedicated IPv4",
+          "Self Managed"
+        ],
+        "orderUrl": "https://my.serveranywhere.net/index.php?rp=/store/cpu-optimized-rdp/sa-bd-rdp-1212-130a",
+        "featured": false
+      },
+      {
+        "name": "SA-BD-RDP-1616-150A",
+        "price": 2699,
+        "currency": "৳",
+        "period": "month",
+        "features": [
+          "16 Dedicated vCPU @ 3.2 GHz",
+          "16 GB -  Memory",
+          "150 GB - SSD Storage",
+          "5 TB Bandwidth Limit",
+          "1 Gbps BDIX Network Speed (UpTo)",
+          "100 Mbps int Network Speed (UpTo)",
+          "Unlicensed windows",
+          "1 Dedicated IPv4",
+          "Self Managed"
+        ],
+        "orderUrl": "https://my.serveranywhere.net/index.php?rp=/store/cpu-optimized-rdp/sa-bd-rdp-1616-150a",
+        "featured": false
+      },
+      {
+        "name": "SA-BD-RDP-2424-200A",
+        "price": 3999,
+        "currency": "৳",
+        "period": "month",
+        "features": [
+          "24 Dedicated vCPU @ 3.2 GHz",
+          "24 GB -  Memory",
+          "200 GB - SSD Storage",
+          "6 TB Bandwidth Limit",
+          "1 Gbps BDIX Network Speed (UpTo)",
+          "100 Mbps int Network Speed (UpTo)",
+          "Unlicensed windows",
+          "1 Dedicated IPv4",
+          "Self Managed"
+        ],
+        "orderUrl": "https://my.serveranywhere.net/index.php?rp=/store/cpu-optimized-rdp/sa-bd-rdp-2424-200a",
+        "featured": false
+      },
+      {
+        "name": "SA-BD-RDP-3232-250A",
+        "price": 5299,
+        "currency": "৳",
+        "period": "month",
+        "features": [
+          "32 Dedicated vCPU @ 3.2 GHz",
+          "32 GB - Memory",
+          "250 GB - SSD Storage",
+          "8 TB Bandwidth Limit",
+          "1 Gbps BDIX Network Speed (UpTo)",
+          "100 Mbps int Network Speed (UpTo)",
+          "Unlicensed windows",
+          "1 Dedicated IPv4",
+          "Self Managed"
+        ],
+        "orderUrl": "https://my.serveranywhere.net/index.php?rp=/store/cpu-optimized-rdp/sa-bd-rdp-3232-250a",
+        "featured": false
+      }
+    ],
+    "notices": [
+      "Enjoy a 20% discount when you choose a yearly plan—save more on your hosting!"
+    ],
+    "features": [
+      {
+        "title": "Enterprise Hardware",
+        "description": "We use only enterprise-grade hardware to ensure your product runs smoothly and reliably at all times."
+      },
+      {
+        "title": "Root Access",
+        "description": "We provide full root access to your VPS, giving you complete control to customize it according to your needs without limitations."
+      },
+      {
+        "title": "Exceptional Support",
+        "description": "Our support team is available 24/7 to assist you with any questions or concerns about your service."
+      },
+      {
+        "title": "Instant Setup",
+        "description": "Your service is set up instantly once payment is received, faster than a rocket blasting off to the moon."
+      },
+      {
+        "title": "Dedicated KVM Resources",
+        "description": "KVM virtualization, you get full 24/7 access to dedicated resources, with no CPU fair-usage policy and no overselling."
+      },
+      {
+        "title": "Easy To Use Control Panel",
+        "description": "Manage your VPS effortlessly through our intuitive control panel—reinstall your OS, view stats, reset passwords, and more!"
+      }
+    ],
+    "tables": [],
+    "faqs": [
+      {
+        "question": "Which operating systems are available for use?",
+        "answer": "We provide a wide selection of operating systems to choose from, including Ubuntu, CentOS, Debian, and many more."
+      },
+      {
+        "question": "Will I have root access to my VPS?",
+        "answer": "Yes, every VPS comes with root access to the server, along with SSH and SFTP/FTP support for easy management."
+      },
+      {
+        "question": "What technical expertise is needed for Unmanaged VPS hosting?",
+        "answer": "Unmanaged VPS hosting is ideal for users with advanced technical skills, including experience in server management, software installations, and troubleshooting."
+      },
+      {
+        "question": "Do we offer any support for Unmanaged VPS hosting?",
+        "answer": "Unmanaged VPS hosting does not come with direct support from ServerAnywhere. However, you can use google to access detailed documentation and knowledge base for guidance and troubleshooting."
+      },
+      {
+        "question": "Is backup included with Unmanaged VPS hosting?",
+        "answer": "Backups for Unmanaged VPS hosting are your responsibility. We do not offer any backup services."
+      }
+    ],
+    "warning": "",
+    "featureTitle": "VPS Hosting Features",
+    "textSections": []
+  },
+  {
+    "slug": "ddr4-rdp",
+    "title": "DDR4 RDPs",
+    "category": "RDP",
+    "description": "DDR4 RDP Server",
+    "plans": [
+      {
+        "name": "SA-BD-RDP-24-50B",
+        "price": 780,
+        "currency": "৳",
+        "period": "month",
+        "features": [
+          "2 Dedicated vCPU Intel Xeon",
+          "4 GB - DDR4",
+          "50 GB - NVMe SSD Storage",
+          "2 TB Bandwidth Limit",
+          "1 Gbps BDIX Network Speed (UpTo)",
+          "100 Mbps int Network Speed (UpTo)",
+          "Unlicensed windows",
+          "1 Dedicated IPv4",
+          "Self Managed"
+        ],
+        "orderUrl": "https://my.serveranywhere.net/index.php?rp=/store/advanced-rdp/sa-bd-rdp-24-50b",
+        "featured": false
+      },
+      {
+        "name": "SA-BD-RDP-44-60B",
+        "price": 1000,
+        "currency": "৳",
+        "period": "month",
+        "features": [
+          "4 Dedicated vCPU Intel Xeon",
+          "4 GB - DDR4",
+          "60 GB - NVMe SSD Storage",
+          "3 TB Bandwidth Limit",
+          "1 Gbps BDIX Network Speed (UpTo)",
+          "100 Mbps int Network Speed (UpTo)",
+          "Unlicensed windows",
+          "1 Dedicated IPv4",
+          "Self Managed"
+        ],
+        "orderUrl": "https://my.serveranywhere.net/index.php?rp=/store/advanced-rdp/sa-bd-rdp-44-60b",
+        "featured": false
+      },
+      {
+        "name": "SA-BD-RDP-48-80B",
+        "price": 1299,
+        "currency": "৳",
+        "period": "month",
+        "features": [
+          "4 Dedicated vCPU Intel Xeon",
+          "8 GB - DDR4",
+          "80 GB - NVMe SSD Storage",
+          "3 TB Bandwidth Limit",
+          "1 Gbps BDIX Network Speed (UpTo)",
+          "100 Mbps int Network Speed (UpTo)",
+          "Unlicensed windows",
+          "1 Dedicated IPv4",
+          "Self Managed"
+        ],
+        "orderUrl": "https://my.serveranywhere.net/index.php?rp=/store/advanced-rdp/sa-bd-rdp-48-80b",
+        "featured": false
+      },
+      {
+        "name": "SA-BD-RDP-816-130B",
+        "price": 2099,
+        "currency": "৳",
+        "period": "month",
+        "features": [
+          "8 Dedicated vCPU Intel Xeon",
+          "16 GB - DDR4",
+          "130 GB - NVMe SSD Storage",
+          "4 TB Bandwidth Limit",
+          "1 Gbps BDIX Network Speed (UpTo)",
+          "100 Mbps int Network Speed (UpTo)",
+          "Unlicensed windows",
+          "1 Dedicated IPv4",
+          "Self Managed"
+        ],
+        "orderUrl": "https://my.serveranywhere.net/index.php?rp=/store/advanced-rdp/sa-bd-rdp-816-130b",
+        "featured": false
+      },
+      {
+        "name": "SA-BD-RDP-1224-180B",
+        "price": 3099,
+        "currency": "৳",
+        "period": "month",
+        "features": [
+          "12 Dedicated vCPU Intel Xeon",
+          "24 GB - DDR4",
+          "180 GB - NVMe SSD Storage",
+          "6 TB Bandwidth Limit",
+          "1 Gbps BDIX Network Speed (UpTo)",
+          "100 Mbps int Network Speed (UpTo)",
+          "Unlicensed windows",
+          "1 Dedicated IPv4",
+          "Self Managed"
+        ],
+        "orderUrl": "https://my.serveranywhere.net/index.php?rp=/store/advanced-rdp/sa-bd-rdp-1224-180b",
+        "featured": false
+      },
+      {
+        "name": "SA-BD-RDP-1632-240B",
+        "price": 3999,
+        "currency": "৳",
+        "period": "month",
+        "features": [
+          "16 Dedicated vCPU Intel Xeon",
+          "32 GB - DDR4",
+          "240 GB - NVMe SSD Storage",
+          "8 TB Bandwidth Limit",
+          "1 Gbps BDIX Network Speed (UpTo)",
+          "100 Mbps int Network Speed (UpTo)",
+          "Unlicensed windows",
+          "1 Dedicated IPv4",
+          "Self Managed"
+        ],
+        "orderUrl": "https://my.serveranywhere.net/index.php?rp=/store/advanced-rdp/sa-bd-rdp-1632-240b",
+        "featured": false
+      }
+    ],
+    "notices": [
+      "Enjoy a 15% discount when you choose a yearly plan—save more on your hosting!"
+    ],
+    "features": [
+      {
+        "title": "Enterprise Hardware",
+        "description": "We use only enterprise-grade hardware to ensure your product runs smoothly and reliably at all times."
+      },
+      {
+        "title": "Root Access",
+        "description": "We provide full root access to your VPS, giving you complete control to customize it according to your needs without limitations."
+      },
+      {
+        "title": "Exceptional Support",
+        "description": "Our support team is available 24/7 to assist you with any questions or concerns about your service."
+      },
+      {
+        "title": "Instant Setup",
+        "description": "Your service is set up instantly once payment is received, faster than a rocket blasting off to the moon."
+      },
+      {
+        "title": "Dedicated KVM Resources",
+        "description": "KVM virtualization, you get full 24/7 access to dedicated resources, with no CPU fair-usage policy and no overselling."
+      },
+      {
+        "title": "Easy To Use Control Panel",
+        "description": "Manage your VPS effortlessly through our intuitive control panel—reinstall your OS, view stats, reset passwords, and more!"
+      }
+    ],
+    "tables": [],
+    "faqs": [
+      {
+        "question": "Which operating systems are available for use?",
+        "answer": "We provide a wide selection of operating systems to choose from, including Ubuntu, CentOS, Debian, and many more."
+      },
+      {
+        "question": "Will I have root access to my VPS?",
+        "answer": "Yes, every VPS comes with root access to the server, along with SSH and SFTP/FTP support for easy management."
+      },
+      {
+        "question": "What technical expertise is needed for Unmanaged VPS hosting?",
+        "answer": "Unmanaged VPS hosting is ideal for users with advanced technical skills, including experience in server management, software installations, and troubleshooting."
+      },
+      {
+        "question": "Do we offer any support for Unmanaged VPS hosting?",
+        "answer": "Unmanaged VPS hosting does not come with direct support from ServerAnywhere. However, you can use google to access detailed documentation and knowledge base for guidance and troubleshooting."
+      },
+      {
+        "question": "Is backup included with Unmanaged VPS hosting?",
+        "answer": "Backups for Unmanaged VPS hosting are your responsibility. We do not offer any backup services."
+      }
+    ],
+    "warning": "",
+    "featureTitle": "VPS Hosting Features",
+    "textSections": []
+  },
+  {
+    "slug": "amd-ryzen-rdp",
+    "title": "AMD Ryzen RDP",
+    "category": "RDP",
+    "description": "AMD Ryzen RDP Server",
+    "plans": [
+      {
+        "name": "SA-BD-RDP-48-80D",
+        "price": 1512,
+        "currency": "৳",
+        "period": "month",
+        "features": [
+          "AMD Ryzen",
+          "4 Dedicated vCPU",
+          "8 GB DDR4",
+          "80 GB NVMe 3.0 SSD",
+          "4 TB Traffic",
+          "1 Gbps BDIX (UpTo)",
+          "100 Mbps (UpTo)",
+          "1 Dedicated IPv4"
+        ],
+        "orderUrl": "https://my.serveranywhere.net/index.php?rp=/store/amd-ryzen-rdp/sa-bd-rdp-48-80d",
+        "featured": false
+      },
+      {
+        "name": "SA-BD-RDP-616-130D",
+        "price": 2843,
+        "currency": "৳",
+        "period": "month",
+        "features": [
+          "AMD Ryzen",
+          "6 Dedicated vCPU",
+          "16 GB DDR4",
+          "130GB NVMe 3.0 SSD",
+          "4 TB Traffic",
+          "1 Gbps BDIX (UpTo)",
+          "100 Mbps (UpTo)",
+          "1 Dedicated IPv4"
+        ],
+        "orderUrl": "https://my.serveranywhere.net/index.php?rp=/store/amd-ryzen-rdp/sa-bd-rdp-616-130d",
+        "featured": false
+      },
+      {
+        "name": "SA-BD-RDP-832-240D",
+        "price": 5626,
+        "currency": "৳",
+        "period": "month",
+        "features": [
+          "AMD Ryzen",
+          "8 Dedicated vCPU",
+          "32 GB DDR4",
+          "240 GB NVMe 3.0 SSD",
+          "6 TB Traffic",
+          "1 Gbps BDIX (UpTo)",
+          "100 Mbps (UpTo)",
+          "1 Dedicated IPv4"
+        ],
+        "orderUrl": "https://my.serveranywhere.net/index.php?rp=/store/amd-ryzen-rdp/sa-bd-rdp-832-240d",
+        "featured": false
+      },
+      {
+        "name": "SA-BD-RDP-1048-400D",
+        "price": 8167,
+        "currency": "৳",
+        "period": "month",
+        "features": [
+          "AMD Ryzen",
+          "10 Dedicated vCPU",
+          "48 GB DDR4",
+          "400 GB NVMe 3.0 SSD",
+          "8 TB Traffic",
+          "1 Gbps BDIX (UpTo)",
+          "100 Mbps (UpTo)",
+          "1 Dedicated IPv4"
+        ],
+        "orderUrl": "https://my.serveranywhere.net/index.php?rp=/store/amd-ryzen-rdp/sa-bd-rdp-1048-400d",
+        "featured": false
+      }
+    ],
+    "notices": [
+      "Enjoy a 20% discount when you choose a yearly plan—save more on your hosting!"
+    ],
+    "features": [
+      {
+        "title": "Enterprise Hardware",
+        "description": "We use only enterprise-grade hardware to ensure your product runs smoothly and reliably at all times."
+      },
+      {
+        "title": "Root Access",
+        "description": "We provide full root access to your VPS, giving you complete control to customize it according to your needs without limitations."
+      },
+      {
+        "title": "Exceptional Support",
+        "description": "Our support team is available 24/7 to assist you with any questions or concerns about your service."
+      },
+      {
+        "title": "Instant Setup",
+        "description": "Your service is set up instantly once payment is received, faster than a rocket blasting off to the moon."
+      },
+      {
+        "title": "Dedicated KVM Resources",
+        "description": "KVM virtualization, you get full 24/7 access to dedicated resources, with no CPU fair-usage policy and no overselling."
+      },
+      {
+        "title": "Easy To Use Control Panel",
+        "description": "Manage your VPS effortlessly through our intuitive control panel—reinstall your OS, view stats, reset passwords, and more!"
+      }
+    ],
+    "tables": [],
+    "faqs": [
+      {
+        "question": "Which operating systems are available for use?",
+        "answer": "We provide a wide selection of operating systems to choose from, including Ubuntu, CentOS, Debian, and many more."
+      },
+      {
+        "question": "Will I have root access to my VPS?",
+        "answer": "Yes, every VPS comes with root access to the server, along with SSH and SFTP/FTP support for easy management."
+      },
+      {
+        "question": "What technical expertise is needed for Unmanaged VPS hosting?",
+        "answer": "Unmanaged VPS hosting is ideal for users with advanced technical skills, including experience in server management, software installations, and troubleshooting."
+      },
+      {
+        "question": "Do we offer any support for Unmanaged VPS hosting?",
+        "answer": "Unmanaged VPS hosting does not come with direct support from ServerAnywhere. However, you can use google to access detailed documentation and knowledge base for guidance and troubleshooting."
+      },
+      {
+        "question": "Is backup included with Unmanaged VPS hosting?",
+        "answer": "Backups for Unmanaged VPS hosting are your responsibility. We do not offer any backup services."
+      }
+    ],
+    "warning": "",
+    "featureTitle": "VPS Hosting Features",
+    "textSections": []
+  },
+  {
+    "slug": "dedicated-servers",
+    "title": "Dedicated Servers",
+    "category": "Dedicated",
+    "description": "Choose the best Server for you",
+    "plans": [
+      {
+        "name": "Server 1",
+        "price": 8000,
+        "currency": "৳",
+        "period": "month",
+        "features": [
+          "Intel® Xeon® Processor E5-2450",
+          "Unlimited Bandwidth",
+          "32 GB Physical Memory",
+          "8/16 Cores/Threads"
+        ],
+        "orderUrl": "https://my.serveranywhere.net/index.php?rp=/store/dedicated-servers/server-1",
+        "featured": false
+      },
+      {
+        "name": "Server 2",
+        "price": 10000,
+        "currency": "৳",
+        "period": "month",
+        "features": [
+          "Intel® Xeon® Processor E5-2650 v2 x2",
+          "Unlimited Bandwidth",
+          "32 GB Physical Memory",
+          "16/32 Cores/Threads"
+        ],
+        "orderUrl": "https://my.serveranywhere.net/index.php?rp=/store/dedicated-servers/server-2",
+        "featured": false
+      },
+      {
+        "name": "Server 3",
+        "price": 9000,
+        "currency": "৳",
+        "period": "month",
+        "features": [
+          "Dell PowerEdge R710",
+          "Intel® Xeon® Processor X5670 x2",
+          "Unlimited Bandwidth",
+          "64 GB Physical Memory",
+          "12/24 Cores/Threads"
+        ],
+        "orderUrl": "https://my.serveranywhere.net/index.php?rp=/store/dedicated-servers/server-3",
+        "featured": false
+      },
+      {
+        "name": "Server 4",
+        "price": 12000,
+        "currency": "৳",
+        "period": "month",
+        "features": [
+          "Dell PowerEdge R720",
+          "Intel® Xeon® Processor E5-2697 v2 x2",
+          "Unlimited Bandwidth",
+          "224 GB RAM",
+          "24/48 Cores/Threads"
+        ],
+        "orderUrl": "https://my.serveranywhere.net/index.php?rp=/store/dedicated-servers/server-4",
+        "featured": false
+      },
+      {
+        "name": "Server 5",
+        "price": 8000,
+        "currency": "৳",
+        "period": "month",
+        "features": [
+          "Dell PowerEdge R410",
+          "Intel® Xeon® Processor X5670 x2",
+          "Unlimited Bandwidth",
+          "120 GB RAM",
+          "12/24 Cores/Threads"
+        ],
+        "orderUrl": "https://my.serveranywhere.net/index.php?rp=/store/dedicated-servers/server-5",
+        "featured": false
+      }
+    ],
+    "notices": [],
+    "features": [],
+    "tables": [],
+    "faqs": [],
+    "warning": "",
+    "featureTitle": "",
+    "textSections": []
+  },
+  {
+    "slug": "web-design",
+    "title": "Web Design",
+    "category": "Services",
+    "description": "Crafting Stunning Websites, Empowered by WordPress Mastery!",
+    "plans": [
+      {
+        "name": "Newspaper Website",
+        "price": 6000,
+        "currency": "৳",
+        "period": "project",
+        "features": [
+          "Domain",
+          "Hosting",
+          "Cpanel",
+          "WordPress installation",
+          "Mobile Responsive",
+          "SEO friendly",
+          "Security Features",
+          "Modern and clean Interface",
+          "Social media integration"
+        ],
+        "orderUrl": "https://my.serveranywhere.net/supporttickets.php",
+        "featured": false
+      },
+      {
+        "name": "E-commerce Website",
+        "price": 8000,
+        "currency": "৳",
+        "period": "project",
+        "features": [
+          "Domain",
+          "Hosting",
+          "Cpanel",
+          "WordPress installation",
+          "Store management with WooCommerce Plugin",
+          "Product Page",
+          "Cart Page",
+          "Payment Integration",
+          "Easy to Update",
+          "Mobile Responsive",
+          "SEO friendly",
+          "Security Features",
+          "Modern and clean Interface",
+          "Social media integration"
+        ],
+        "orderUrl": "https://my.serveranywhere.net/supporttickets.php",
+        "featured": false
+      },
+      {
+        "name": "Company Website",
+        "price": 8000,
+        "currency": "৳",
+        "period": "project",
+        "features": [
+          "Domain",
+          "Hosting",
+          "Cpanel",
+          "WordPress installation",
+          "Mobile Responsive",
+          "Basic Information Page",
+          "Blog Page",
+          "SEO friendly",
+          "Security Features",
+          "Modern and clean Interface",
+          "Social media integration"
+        ],
+        "orderUrl": "https://my.serveranywhere.net/supporttickets.php",
+        "featured": false
+      },
+      {
+        "name": "Portfolio Website",
+        "price": 6000,
+        "currency": "৳",
+        "period": "project",
+        "features": [
+          "Domain",
+          "Hosting",
+          "Cpanel",
+          "WordPress installation",
+          "Mobile Responsive",
+          "Basic Information Page",
+          "Contact Form",
+          "Service Page",
+          "Project Gallery",
+          "Blog Page",
+          "SEO friendly",
+          "Security Features",
+          "Modern and clean Interface",
+          "Social media integration"
+        ],
+        "orderUrl": "https://my.serveranywhere.net/supporttickets.php",
+        "featured": false
+      },
+      {
+        "name": "Educational Website",
+        "price": 8000,
+        "currency": "৳",
+        "period": "project",
+        "features": [
+          "Domain",
+          "Hosting",
+          "Cpanel",
+          "WordPress installation",
+          "Mobile Responsive",
+          "Tutor LMS, Learnpress Plugin integration",
+          "Notice Board",
+          "SEO friendly",
+          "Security Features",
+          "Modern and clean Interface",
+          "Social media integration"
+        ],
+        "orderUrl": "https://my.serveranywhere.net/supporttickets.php",
+        "featured": false
+      },
+      {
+        "name": "Blogging Website",
+        "price": 6000,
+        "currency": "৳",
+        "period": "project",
+        "features": [
+          "Domain",
+          "Hosting",
+          "Cpanel",
+          "WordPress installation",
+          "Mobile Responsive",
+          "Contact Form",
+          "Blog Post Archive",
+          "SEO friendly",
+          "Security Features",
+          "Modern and clean Interface",
+          "Social media integration"
+        ],
+        "orderUrl": "https://my.serveranywhere.net/supporttickets.php",
+        "featured": false
+      }
+    ],
+    "notices": [],
+    "features": [],
+    "tables": [],
+    "faqs": [],
+    "warning": "",
+    "featureTitle": "",
+    "textSections": [
+      {
+        "title": "",
+        "paragraphs": [
+          "Host & build your websites with us."
+        ]
+      }
+    ]
+  },
+  {
+    "slug": "terms",
+    "title": "Terms and Conditions",
+    "category": "Info",
+    "description": "সার্ভার এনিহোয়ার হল একটি ক্লাউড কম্পিউটিং পরিষেবা প্রদানকারী কোম্পানি৷ আমাদের লক্ষ্য হল একটি মাসিক মূল্যের মডেল সহ একটি কাস্টম সমাধান হিসাবে উচ্চ-মানের, নমনীয় এবং সাশ্রয়ী IT পরিকাঠামো অফার করা৷ সার...",
+    "plans": [],
+    "notices": [],
+    "features": [],
+    "tables": [],
+    "faqs": [],
+    "warning": "",
+    "featureTitle": "",
+    "textSections": [
+      {
+        "title": "ভূমিকা",
+        "paragraphs": [
+          "সার্ভার এনিহোয়ার হল একটি ক্লাউড কম্পিউটিং পরিষেবা প্রদানকারী কোম্পানি৷ আমাদের লক্ষ্য হল একটি মাসিক মূল্যের মডেল সহ একটি কাস্টম সমাধান হিসাবে উচ্চ-মানের, নমনীয় এবং সাশ্রয়ী IT পরিকাঠামো অফার করা৷ সার্ভার যেকোনো স্থানে VPS হোস্টিং, ডেডিকেটেড সার্ভার, GPU সার্ভার, শেয়ার্ড হোস্টিং, সার্ভার যেকোনো জায়গায় সার্ভারগুলি আপনার জন্য খরচ বাঁচাতে সবচেয়ে সাশ্রয়ী মূল্যের এবং সাশ্রয়ী মূল্যের সমাধানগুলি সহ বিভিন্ন ধরনের সার্ভার সরবরাহ করে। আমরা মাসিক চার্জ নিই, যা সবসময় বাজার মূল্যের চেয়ে কম। উচ্চ কর্মক্ষমতা সার্ভার জন্য ব্যবহারকারীদের ক্রমবর্ধমান চাহিদা সঙ্গে",
+          "সাইটটি এই শর্তাবলীর যেকোনো অংশ পরিবর্তন, সংশোধন, যোগ বা অপসারণ করার অধিকার সংরক্ষণ করে, এবং তা কোনো পূর্ব নোটিফিকেশন ছাড়াই। পরিবর্তনগুলি সাইটে পোস্ট করা হলেই কার্যকর হবে, অন্য কোনো নোটিস প্রদান করা হবে না। দয়া করে নিয়মিত এই শর্তাবলী পরীক্ষা করুন আপডেটের জন্য। শর্তাবলীর পরিবর্তন পোস্ট করার পর আপনি যদি সাইটটি ব্যবহার অব্যাহত রাখেন, তা হলে এর মানে হল আপনি ঐ পরিবর্তনগুলি গ্রহণ করেছেন।"
+        ]
+      },
+      {
+        "title": "বিক্রয়ের শর্তাবলী (বিক্রেতা এবং গ্রাহকগণ মধ্যে)",
+        "paragraphs": [
+          "সাইটে সেলারদের (“আমরা” বা “আমাদের” বা “আমরা”, যেখানে প্রযোজ্য) কোনও পণ্য অর্ডার করার আগে এই শর্তগুলি সতর্কতার সাথে পড়েন। এই শর্তগুলি আপনার এই শর্তগুলিতে আবদ্ধ হওয়ার সাক্ষী।"
+        ]
+      },
+      {
+        "title": "পণ্য বা সেবার বিক্রয়ে সম্পর্কিত নিয়ম ও শর্তাবলী",
+        "paragraphs": [
+          "এই বিভাগটি আমাদের সাইটের পণ্য বা সেবা বিক্রয়ের শর্তগুলি নিয়ে আলোচনা করে।",
+          "0১ একাউন্ট ভেরিফিকেশন",
+          "বিটিআরসির নিয়ম অনুযায়ী, কেউ সেবা নিতে চাইলে তাকে অবশ্যই এনআইডি বা পাসপোর্টের তথ্য এবং ফটোকপি দিতে হবে।",
+          "0২ চুক্তি",
+          "আপনার অর্ডার একটি আইনতান্ত্রিক অফার হিসেবে গন্য হয় যা বিক্রেতার কাছে আমাদের সাইটে প্রদর্শিত পণ্য বা সেবা কেনার জন্য করা হয়। আপনি যখন একটি পণ্য কেনার অর্ডার দেন, তখন আপনি যেকোনো নিশ্চিতকরণ বা অবস্থা আপডেট পেয়ে যান যেগুলি আপনার অর্ডার বিবরণ যাচাই করার জন্য শুধুমাত্র ব্যবহৃত হয় এবং কোনও প্রকারে নিশ্চিতকরণ করে না যে অর্ডারটি নিশ্চিত করেছে। আপনার অর্ডারটি গ্রহণ করা হয় যখন পণ্যটি আপনাকে প্রেরণ করা হয়। আপনার অর্ডারটি যদি একাধিক প্যাকেজে প্রেরিত হয়, তবে আপনি বিভাগীয় প্রেরণ নিশ্চিতকরণ প্রাপ্ত করতে পারেন। অর্ডার প্লেস করার সময়ে, আমরা আপনাকে আপনার অর্ডারের প্রসেসিং সময়সূচির একটি আশঙ্কায়িত সময়সূচি প্রদান করি, তবে আমরা এই সময়সূচিটি প্রতিটি অধ্যায়ে যথার্থ না করার কারণে প্রতিশ্রুতি দেতে পারিনি কারণ এই প্রতিশ্রুতিতে আমরা তৃতীয় পক্ষের সেবা প্রদাতাদের নির্ভর করি। আমরা আপনাকে নিশ্চিত সময়সূচি অনুসরণ করার জন্য প্রতিটি যোগাযোগ প্রয়াস করার সঙ্গে পূর্ণমানে বতুরে হতে গর্বিত আচরণ করি। সমস্ত বাণিজ্যিক/চুক্তি শর্তাবলী আপনার এবং মাত্র আপনি এবং বিক্রেতার মধ্যে প্রদত্ত এবং অগ্রিমভাবে সম্মত হয়। “বাণিজ্যিক/চুক্তি শর্তাবলী অধিকার সহ মূল্য, অর্থ প্রদানের পদ্ধতি, অর্থ প্রদানের শর্ত, প্রেরণের তারিখ, সময়কাল এবং প্রদানের পদ্ধতি, পণ্য এবং সেবার সংশ্লিষ্ট গ্যারান্টি এবং পণ্য এবং সেবার পরবর্তী বিক্রয় পরিষেবা ব্যপ্তির মধ্যে অন্তর্ভুক্ত। কাহোন কোনও নিয়ন্ত্রণ রাখে না এবং বিক্রেতা ও আপনার মধ্যে বিভাগীয় বা চুক্তি শর্তাবলীর প্রদান বা গ্রহণের কোনও প্রক্রিয়ায় নিয়োজন বা পরামর্শ করে না। প্রেরণের পূর্বে বিক্রেতা একমাত্র তার একাংশের অনুমোদনের জন্য অর্ডার বাতিল করতে অধিকার রাখে। আমরা নিশ্চিত করবো যে এমন বাতিলগুলির সময়সূচি আপনাকে ইমেল বা এসএমএসের মাধ্যমে সময়ে জানানো হবে। এমন বাতিলের ক্ষেত্রে যে কোনও পূর্ববর্তী অগ্রমূলতন আপনাকে নির্ধারিত সময়সূচিতে ফেরত দেওয়া হবে।",
+          "0৩ গোপনীয়তা",
+          "সার্ভার এনিহোয়ার পরিচালিত ওয়েবসাইটে সংগৃহীত তথ্যের একমাত্র মালিক। সার্ভার এনিহোয়ার আমাদের ওয়েব সাইটের বিভিন্ন পয়েন্টে আমাদের ব্যবহারকারীদের কাছ থেকে তথ্য সংগ্রহ করে। সার্ভার এনিহোয়ার ওয়েব সাইট ব্যবহার করার জন্য, একজন ব্যবহারকারী প্রথমে একটি নিবন্ধন ফর্ম পূরণ করতে হবে। নিবন্ধনের সময় একজন ব্যবহারকারীকে যোগাযোগের তথ্য দিতে হবে (যেমন নাম এবং ইমেল ঠিকানা)। আমরা এই তথ্যটি ব্যবহার করে ব্যবহারকারীর সাথে আমাদের সাইটের পরিষেবাগুলি সম্পর্কে যোগাযোগ করতে পারি। তবে বিশেষ কিছু ক্ষেত্রে ব্যবহারকারীকে NID বা অন্য ডকুমেন্ট দিতে হতে পারে",
+          "★১). সার্ভার এনিহো একাউন্টের ইমেইল বা অন্য কোনো তথ্য পরিবর্তন এর ক্ষেত্রে",
+          "★২). সার্ভার এনিহোয়ার একাউন্ট ভেরিফাই করার সময়",
+          "★৩). যেকোনো কারণে ডোমেইন বা হোস্টিং সাসপেন্ড হলে",
+          "★৪). বিডিআইক্স সার্ভিস এর ক্ষেত্রে ওপরের দেওয়া সকল তথ্য সার্ভার এনিহোয়ার কঠোরভাবে গোপনীয়তা বজায় রাখবে। যদি সার্ভার এনিহোয়ার শর্তবলিগুলো না মেনে ব্যবহারকারী কোনো আইনি পদক্ষেব নিয়ে থাকেন তাহলে সার্ভার এনিহোয়ার ব্যবহারকারী তথ্য ব্যবহার করে আইনি পদক্ষেপ নিতে পারবে।",
+          "0৪ পেমেন্ট",
+          "আপনি যখন আমাদের পরিষেবাগুলি ক্রয় করেন, আপনি ডোমেন নিবন্ধন, ওয়েব হোস্টিং, ডেডিকেটেড সার্ভার, ভার্চুয়াল প্রাইভেট সার্ভার ইত্যাদি সহ প্রি-পেইড অফারগুলি অর্জন করছেন৷ দয়া করে মনে রাখবেন যে উদ্দোক্তা পে পদ্ধতি ব্যবহার করার সময় সমস্ত পরিষেবা 5% ভ্যাট চার্জের অধীন৷ . ইনভয়েসের জন্য অনলাইনে বিকাশ, নগদ বা অফলাইনে ব্যাঙ্ক ট্রান্সফার (সিটি ব্যাঙ্ক) মাধ্যমে পেমেন্ট করা যেতে পারে। অনলাইন পেমেন্টের জন্য অতিরিক্ত পেমেন্ট গেটওয়ে ফি দিতে হবে, আপনি আপনার ক্লায়েন্ট এরিয়া > ইনভয়েসে আপনার অর্থপ্রদানের পদ্ধতি নির্বাচন করার সাথে সাথে স্বয়ংক্রিয়ভাবে যোগ হবে। ম্যানুয়াল পেমেন্টের ক্ষেত্রে বিকাশ/রকেট/নগদ/ব্যাঙ্ক/পেপালের জন্য 5 মিনিট থেকে 12 ঘন্টা সময় লাগতে পারে। পুনর্নবীকরণের অনুস্মারকগুলি পুনর্নবীকরণের তারিখের 30 দিন আগে থেকে শুরু করে একাধিকবার ইমেলের মাধ্যমে পাঠানো হয়। আমরা পরিষেবা প্রদানের জন্য একচেটিয়াভাবে বিকাশ, নগদ এবং ব্যাংক স্থানান্তর গ্রহণ করি। একটি ব্যর্থ বার্ষিক চার্জ এবং আপনার সাথে যোগাযোগ করতে অক্ষমতার ক্ষেত্রে, আপনার অ্যাকাউন্ট পুনরায় সক্রিয় করতে দেরী ফি প্রয়োগ করা হতে পারে। অর্থপ্রদান-সম্পর্কিত অনুসন্ধানের জন্য, অনুগ্রহ করে আমাদের ক্লায়েন্টদের এলাকা থেকে সার্ভার এনিহোয়ার টিকিটের সাথে যোগাযোগ করুন। শেয়ার্ড/রিসেলার/ভিপিএস/ডেডিকেটেড অ্যাকাউন্টগুলির জন্য ওভারডি ইনভয়েস সম্পর্কে,_নিম্নলিখিত পদক্ষেপগুলি নেওয়া হবে: 1-2 দিন: কোন ব্যবস্থা নেওয়া হয়নি 3 দিন: অ্যাকাউন্ট সাসপেনশন 7 দিন: দেরী ফি যোগ করা হয়েছে 30 দিন: পরিষেবার সমাপ্তি_",
+          "0৫ বিতরণ",
+          "★১. ডোমেন, হোস্টিং, VPS, রিসেলার হোস্টিং তাত্ক্ষণিক ডেলিভারি প্রদান করা হয়, যদি কোন প্রযুক্তিগত বা অর্থপ্রদান সংক্রান্ত জটিলতা না থাকে। যাইহোক, যদি কোন কারণে এটি তাত্ক্ষণিক সক্রিয় না হয়, এটি 5-30 মিনিট পর্যন্ত সময় নিতে পারে। অন্যান্য ডেডিকেটেড সার্ভার পরিষেবার ক্ষেত্রে, ডেলিভারির জন্য 5 মিনিট থেকে সর্বোচ্চ 72 ঘন্টা সময় লাগতে পারে।",
+          "★২. যদি কোনো কারণে ইনভয়েসটি গেটওয়ের মাধ্যমে অর্থপ্রদানের পরে পরিশোধ না করা দেখায়, আপনার পেমেন্টের তথ্য সহ একটি টিকিট খুলুন, সার্ভার এনিহোয়ার গেটওয়ের সাথে যোগাযোগ করবে এবং সমাধানটি জানাবে সেক্ষেত্রে 6 ঘন্টা থেকে 72 ঘন্টা সময় লাগতে পারে, সেক্ষেত্রে আপনার অর্ডার সক্রিয় হবে না। দ্রষ্টব্য: এই ক্ষেত্রে আমাদের পেমেন্ট গেটওয়ের সাথে যোগাযোগ করতে হতে পারে যার জন্য তৃতীয় পক্ষের উত্তর বিলম্বিত হতে পারে, উত্তর দেওয়া না হওয়া পর্যন্ত অপেক্ষা করুন। ম্যানুয়াল পেমেন্টের ক্ষেত্রে বিকাশ/রকেট/নগদ/ব্যাঙ্ক/ এর জন্য 5 মিনিট থেকে 12 ঘন্টা সময় লাগতে পারে দ্রষ্টব্য: ম্যানুয়াল পেমেন্টের সময় যদি ইনভয়েস নম্বরটি ভুলভাবে রেফারেন্স হিসাবে দেওয়া হয়, তাহলে ভুল চালানটি প্রদান করা হবে এবং পরিষেবাটি সক্রিয় করা হবে, এই ক্ষেত্রে ফেরত গ্রহণ করা হবে না, ক্লায়েন্টকে একটি নতুন অর্থ প্রদান করতে হবে।",
+          "0৬ পণ্য ফেরত নীতি",
+          "আমরা মাসিক সার্ভিসগুলোর জন্য আংশিক ফেরত প্রদান করি না। বাতিলের জন্য 30-দিনের নোটিশ পিরিয়ড প্রয়োজন। আপনি যদি আমাদের শর্তাবলী লঙ্ঘন করেন তবে কোন রিফান্ড জারি করা হবে না।",
+          "১)★ যেকোন ভিপিএস সার্ভার সম্পূর্ণরূপে ফেরতযোগ্য নয় এর মধ্যে সার্ভার সংক্রান্ত কোনো সমস্যা হলে কোম্পানির সমস্যা সমাধানে কমপক্ষে ৬-২৪ ঘণ্টা সময় লাগবে। কোন ফেরত জারি করা হবে.",
+          "২)★ যেকোনো ডোমেইন রেজিস্ট্রেশন হয়ে গেলে বা ট্রান্সফার শুরু হয়ে গেলে সেই ডোমেইন টাকা রিফান্ড করা হবে না।",
+          "৩)★ ক্লায়েন্ট এরিয়া ব্যতীত অন্য কোনও স্থান থেকে ক্যানসেল রিকোয়েস্ট করলে গ্রহণ করা হবে না।",
+          "৪)★ ক্যানসেল রিকোয়েস্ট সাবমিট দেওয়ার পর কোনো ভাবেই ওই একাউন্ট রিএক্টিভে করা যাবে না, আপনাকে নতুন করে প্যাকেজ কিনতে হবে।",
+          "৫)★ ক্যানসেল রিকোয়েস্ট সাবমিট দেওয়ার পর বিলিং ডিপার্টমেন্ট একটা টিকেট ওপেন করুন, এরপর ১দিন থেকে সর্বোচ্চ ১৫ দিন পর্যন্ত সময় লাগতে পারে গেটওয়ের ওপর নির্ভর করে। যেকোনো রিফান্ডের জন্য সেন্ডিং চার্জ/ গেটওয়ে চার্জ /ক্যাশ আউট চার্জ কেটে রাখা হবে।",
+          "★ ★★(বিশেষ ক্ষেত্রে) সমস্যার সমাধান না হলে, ক্লায়েন্টের অ্যাকাউন্টে জমা করা অর্থ ফেরতযোগ্য নয়, এটি যেকোনো পরিষেবা কেনার জন্য ব্যবহার করা যেতে পারে",
+          "0৭ রিফান্ড (মূল্যফেরত) নীতি"
+        ]
+      },
+      {
+        "title": "০১. ভিপিএস রিফান্ড নীতি",
+        "paragraphs": [
+          "আমরা মাসিক ফিগুলির জন্য আংশিক ফেরত প্রদান করি না। বাতিলের জন্য 30-দিনের নোটিশ পিরিয়ড প্রয়োজন। আপনি যদি আমাদের শর্তাবলী লঙ্ঘন করেন তবে কোন রিফান্ড জারি করা হবে না। যেকোন ভিপিএস সম্পূর্ণরূপে ফেরতযোগ্য নয়",
+          "★ ১) এর মধ্যে সার্ভার সংক্রান্ত কোনো সমস্যা হলে কোম্পানির সমস্যা সমাধানে কমপক্ষে 6-24 ঘণ্টা সময় লাগবে। কোন ফেরত জারি করা হবে.",
+          "★ 2)(বিশেষ ক্ষেত্রে) সমস্যার সমাধান না হলে, ক্লায়েন্টের অ্যাকাউন্টে জমা করা অর্থ ফেরতযোগ্য নয়, এটি যেকোনো পরিষেবা কেনার জন্য ব্যবহার করা যেতে পারে"
+        ]
+      },
+      {
+        "title": "০২. ডেডিকেটেড সার্ভার রিফান্ড নীতি",
+        "paragraphs": [
+          "আমরা মাসিক ফিগুলির জন্য আংশিক ফেরত প্রদান করি না। বাতিলের জন্য 30-দিনের নোটিশ পিরিয়ড প্রয়োজন। আপনি যদি আমাদের শর্তাবলী লঙ্ঘন করেন তবে কোন রিফান্ড জারি করা হবে না। যেকোন ডেডিকেটেড সার্ভার সম্পূর্ণরূপে ফেরতযোগ্য নয়",
+          "★১.) আমাদের যেকোনো পরিষেবার অর্ডার দেওয়ার পরে, পরিষেবাটি শুরু করতে ন্যূনতম 6-24 ঘন্টা সময় লাগবে",
+          "★২) অর্থপ্রদানের পরে, কর্মক্ষমতা পরীক্ষার সময় হল 1 দিন, যদি এর মধ্যে সার্ভার সম্পর্কিত কোনও সমস্যা হয়, তবে সমস্যাটি সমাধান করতে কোম্পানি কমপক্ষে 6-24 ঘন্টা সময় নেবে। কোন টাকা ফেরত করা হবে.",
+          "★৩) সমাধানের পরে যদি ক্লায়েন্ট ক্রয়ের পরে 1 দিনের মধ্যে ফেরত চায়, তাহলে 100 টাকা সার্ভিস চার্জ কেটে নেওয়া হবে এবং অবশিষ্ট টাকা ফেরত দেওয়া হবে। যাইহোক, 2 দিনের পরে কোনও ফেরতের অনুরোধ গ্রহণ করা হবে না।",
+          "★৪) (বিশেষ ক্ষেত্রে) সমস্যার সমাধান না হলে, সার্ভিস চার্জ বাবদ 1000 টাকা এবং প্রতিদিনের মতো ফেরত।",
+          "0৮ ব্যবহারের শর্ত"
+        ]
+      },
+      {
+        "title": "০১. অঙ্গিকার",
+        "paragraphs": [
+          "দয়া করে নিশ্চিত করুন যে আপনি আমাদের সাথে যে বিবরণ প্রদান করেছেন তা সম্পুর্নরুপে সঠিক । আপনার দেওয়া যেকোনো ভূল তথ্য প্রদানের জন্য আপনার অ্যাকাউন্ট বা ক্রয়কৃত পরিষেবা অবিলম্বে অকার্যকর করতে পারি, এবং তা কোনো কারণ বা পূর্বাভাস ছাড়াই। এই ধরনের কর্ম কার্যকর করার ফলে আপনার দ্বারা বা আপনার কারণে বা এর সংগে সম্পর্কিত বা এর কারণে সৃষ্ট কোনো ক্ষতির জন্য আমরা দায়ী বা দায়বদ্ধ থাকব না। আপনার অ্যাকাউন্ট সম্পর্কিত তথ্য আপডেট করার জন্য আপনার দায়িত্ব রয়েছে, এবং আপনি অনলাইনে আপনার অ্যাকাউন্টে প্রবেশ করে তা বাস্তব সময়ে করতে বাধ্য। সাইটে আপনার অ্যাকাউন্টে প্রবেশ করে আপনি যে তথ্যগুলি আপডেট করতে পারেন না, সে ক্ষেত্রে আপনাকে আমাদের গ্রাহক সেবা যোগাযোগ চ্যানেলগুলির মাধ্যমে আমাদের অবহিত করতে হবে যাতে আমরা এই পরিবর্তনগুলি সহায়তা করতে পারি।"
+        ]
+      },
+      {
+        "title": "০২. আপনার একাউন্ট",
+        "paragraphs": [
+          "প্ল্যাটফর্ম দ্বারা প্রস্তাবিত নির্দিষ্ট পরিষেবাগুলি অ্যাক্সেস করার জন্য, আমরা আপনার কাছ থেকে একটি অ্যাকাউন্ট তৈরি করতে বা একটি অ্যাকাউন্ট তৈরি সম্পূর্ণ করতে ব্যক্তিগত তথ্য প্রদানের দাবি করতে পারি। আমরা যে কোনো সময়ে আমাদের একক এবং পরম বিবেচনায়, কোনো কারণ বা পূর্ব নোটিস ছাড়াই ব্যবহারকারীর নাম এবং/অথবা পাসওয়ার্ড অকার্যকর করে দিতে পারি এবং এই ধরনের অনুরোধ বা অকার্যকর করার ফলে হওয়া, সৃষ্টি হওয়া, এর সাথে সম্পর্কিত বা কারণে উদ্ভূত কোনো ক্ষতির জন্য দায়ী বা দায়বদ্ধ হবে না। আপনার ব্যবহারকারী পরিচয়, পাসওয়ার্ড, অ্যাকাউন্টের বিস্তারিত এবং সংশ্লিষ্ট ব্যক্তিগত তথ্যের গোপনীয়তা বজায় রাখা আপনার দায়িত্ব। আপনি এই দায়িত্ব গ্রহণ করতে সম্মতি জানান এবং নিশ্চিত করবেন যে আপনার অ্যাকাউন্ট এবং এর সংশ্লিষ্ট বিস্তারিত সর্বদা নিরাপদে রক্ষিত হয় এবং আপনার অ্যাকাউন্টের অপব্যবহার প্রতিরোধ করার জন্য সমস্ত প্রয়োজনীয় পদক্ষেপ নেওয়া হয়। যদি আপনার পাসওয়ার্ড কারো কাছে প্রকাশিত হয়ে গেছে বা যদি পাসওয়ার্ড অননুমোদিতভাবে ব্যবহার হচ্ছে, বা হতে চলেছে বলে আপনার কোনো কারণে বিশ্বাস হয়, তাহলে আপনাকে আমাদেরকে অবিলম্বে জানাতে হবে। আপনি সম্মতি জানান এবং স্বীকার করেন যে সাইট এবং সম্পর্কিত পরিষেবাগুলির যেকোনো ব্যবহার এবং/অথবা আপনার অ্যাকাউন্ট এবং পাসওয়ার্ড ব্যবহার করে ব্যক্তিগত তথ্য, ডেটা বা যোগাযোগের যেকোনো প্রবেশ আপনার দ্বারা সম্পাদিত বা আপনার অনুমোদিত বলে গণ্য হবে। আপনি সম্মতি জানান যে আমরা আপনার দ্বারা সম্পন্ন বা প্রেরিত হিসেবে কোনো কার্যের জন্য আপনাকে এককভাবে দায়ী এবং দায়বদ্ধ ধরে নেওয়া, তার উপর নির্ভর করা বা কার্যকর করা হবে (তবে বাধ্যতামূলক নয়)। আরও আপনি স্বীকার করেন এবং সম্মতি জানান যে আপনার অ্যাকাউন্টের মাধ্যমে সাইটের ব্যবহার বা প্রবেশের ফলে সৃষ্ট সমস্ত ক্ষতি থেকে আমাদের পূর্ণ ক্ষতিপূরণ প্রদানের জন্য আপনি বাধ্য থাকবেন।"
+        ]
+      },
+      {
+        "title": "০৩. আপনার আচরণ",
+        "paragraphs": [
+          "আপনাকে পন্য ব্যবহার করার কারণে সংশ্লিষ্ট কোনও উপায়ে এর অনুপ্রবেশ, ক্ষতি অথবা কোনও উপায়ে ক্ষতিগ্রস্ত করা বা হয় এমন কোনও কার্যকলাপে জটিল না করা উচিত। আপনার পরিষেবা দ্বারা অপব্যবহার সম্পূর্ণ নিষেধাজ্ঞার আওতার মধ্যে পরে। আপনি সতর্কতার সাথে বাধা পাওয়া যায় না যে পরিষেবা দ্বারা প্রতারণামূলক উদ্দেশ্যে ব্যবহার করা, অথবা সামরিক অপরাধ বা অন্যান্য অবৈধ কার্যকলাপের সাথে সংযুক্ত করা যায় না; যেমন: আপনার মালিকানাধীন নয় বা অবৈধ, আপত্তিজনক (যেমন যৌনতাত্ত্বিক বিষয়বস্তু বা যা বর্ণিত হয় ধর্মান্ধতা, অমিত্রতা, ঘৃণা বা শারীরিক ক্ষতি), প্রবঞ্চকর, ভ্রান্তিকর, অবমানজনক, নির্লজ্জ, হেটাত্মক, অপমানকর, অশ্লীল, পর্নোগ্রাফিক প্রতিরোধমূলক বা ভয়ানক; জাতিগতভাবে আপত্তিজনক, প্রতিহিংসক বা কপিরাইট, ট্রেডমার্ক, গোপনীয়তা বা অন্য কোনও সম্পত্তি বা অধিকারের লঙ্ঘন; অথবা অন্যান্য তৃতীয় দলের ক্ষতির জন্য ক্ষতিকর; অথবা অর্থ-প্রণয়ন বা জুয়ার সাথে সম্পর্কিত বা এতে সহায়ক; অথবা কোনও ভাবেই নিশ্চিতভাবে নিষ্প্রাণ বাচাই করা; অথবা বাংলাদেশের ঐক্য, সম্পৃক্ততা, নিরাপত্তা বা সাহয্যের সাথে বিদেশী রাষ্ট্রসহ সৌহার্দের বিপন্ন করা; অথবা অস্বীকার্য বা অন্যভাবে অবৈধ যেকোনও পদ্ধতিতে; অথবা সফটওয়্যার ভাইরাস, রাজনৈতিক প্রচার, বাণিজ্যিক অনুরোধ, চেইন পত্র, সামুদ্রিক মেইলিং বা কোনও “স্প্যাম” বা সাইট ব্যবহারের অন্যান্য পদ্ধতিতে অব্যাহত করা, অথবা অবৈধ উদ্দেশে অসুবিধা, অসুবিধা বা অপ্রয়োজনীয় চিন্তা সৃষ্টি করা বা অন্যান্য উদ্দেশের বাইরে পরিষেবা ব্যবহার করা সম্পূর্ণ নিষিদ্ধ ।"
+        ]
+      },
+      {
+        "title": "০৪. স্প্যাম বিরোধী নীতি",
+        "paragraphs": [
+          "সার্ভার এনিহোয়ারের পরিষেবা ব্যবহার করে গ্রাহককে দুর্বল করার বা ক্ষতি করার যে কোনো প্রচেষ্টা কঠোরভাবে নিষিদ্ধ। আমাদের গ্রাহক হিসাবে আপনি আপনার সমস্ত অ্যাকাউন্টের জন্য দায়ী। আমরা অযাচিত ইমেল, বাল্ক ইমেল এবং স্প্যাম সংক্রমণের বিরুদ্ধে একটি কঠোর নীতি প্রয়োগ করি। এর মধ্যে নিরাপদ তালিকা এবং কেনা তালিকাকে স্প্যাম হিসাবে বিবেচনা করা অন্তর্ভুক্ত। আপনি যদি এর মধ্যে বর্ণিত পরিষেবার শর্তাবলী লঙ্ঘন করেন তবে আপনার অ্যাকাউন্টটি ফেরত দেওয়ার সুযোগ ছাড়াই বাতিল করা হবে।"
+        ]
+      },
+      {
+        "title": "০৫. অপব্যবহার রোধে আমাদের করণীয়",
+        "paragraphs": [
+          "যখন একটি অপব্যবহারের প্রতিবেদন পাওয়া যায়, তখন আমাদের প্রথম পদক্ষেপ হল এর সত্যতা যাচাই করা এবং এটি আমাদের পরিষেবার সাথে সম্পর্কিত কিনা তা নির্ধারণ করা। যদি এটি সম্পর্কযুক্ত না হয়, আমরা অবিলম্বে প্রেরককে অবহিত করি। যাইহোক, যদি অপব্যবহারটি আমাদের ডোমেনের মধ্যে হয়, আমরা সংশ্লিষ্ট গ্রাহকের কাছে প্রতিবেদনটি ফরোয়ার্ড করি এবং রেজোলিউশনের জন্য 24-ঘন্টা উইন্ডো প্রদান করি, পাশাপাশি প্রেরককে আমাদের কর্ম সম্পর্কে অবহিত করি। যদি গ্রাহক যথাযথ ব্যবস্থা গ্রহণ করে এবং সমস্যার সমাধান করে, আমরা প্রেরককে অবহিত করি এবং বিষয়টি সমাধান করা বিবেচনা করি। গ্রাহকের অতিরিক্ত সময়ের প্রয়োজন হলে, আমরা কী পদক্ষেপ নেওয়া হচ্ছে সে সম্পর্কে জিজ্ঞাসা করি। তাদের প্রচেষ্টা যাচাই করার পরে, সন্তোষজনক হলে, আমরা অপব্যবহারের তীব্রতার উপর ভিত্তি করে সেই অনুযায়ী সময়সীমা বাড়িয়ে দিই। যদি অপর্যাপ্ত বলে মনে করা হয়, আমরা ব্যবহারকারীর অ্যাকাউন্ট স্থগিত করি। যদি 24 ঘন্টার মধ্যে গ্রাহকের কাছ থেকে কোনও প্রতিক্রিয়া না পাওয়া যায়, আমরা রিপোর্ট করা পরিষেবা স্থগিত করি এবং সেই অনুযায়ী প্রেরককে অবহিত করি। পরবর্তীকালে, ব্যবহারকারী যদি সাসপেনশন বাতিল করার অনুরোধ করেন, তাহলে আমরা তাদের অপব্যবহারের প্রতিবেদনটি যথাযথভাবে মোকাবেলা করতে চাই। সন্তোষজনক পদক্ষেপের পরে, আমরা পরিষেবাটি স্থগিত করতে এগিয়ে যাই। আমাদের শর্তাবলী মেনে চলতে ব্যর্থতার কারণে পরিষেবা বাতিল, সাসপেনশন বা সমাপ্তির ক্ষেত্রে কোনও রিফান্ড দেওয়া হবে না"
+        ]
+      },
+      {
+        "title": "০৬. অপব্যবহার রোধে",
+        "paragraphs": [
+          "নিম্নলিখিত ক্রিয়াগুলি অপব্যবহারের কারণে ব্যবহারকারীর অ্যাকাউন্ট অবিলম্বে বন্ধ করে দেবে: ফিশিং, ড্রাগস বা পর্নোগ্রাফি সম্পর্কিত কোনো সামগ্রী হোস্ট করা। একটি ব্যবহারকারীর ওয়েবসাইটে এমন কার্যকলাপে জড়িত হওয়া যা আন্তর্জাতিক আইন বা স্থানীয় আইসিটি প্রবিধান লঙ্ঘন করে, সম্ভাব্য আইনি তদন্তের জন্য সাময়িক স্থগিতাদেশ। আমাদের পরিষেবাগুলি ব্যবহার করে জাতীয়তা, ধর্ম বা সম্প্রদায়ের উপর ভিত্তি করে ঘৃণা বা বিরোধ উসকে দেওয়ার চেষ্টা করা। অর্থপ্রদান বা কার্ড জালিয়াতির সাথে জড়িত, যা অবিলম্বে সমাপ্তির দিকে পরিচালিত করে। আমাদের পরিষেবাগুলি ব্যবহার করে স্ক্যামিং বা স্প্যামিং কার্যকলাপে জড়িত। সরকারবিরোধী কর্মকাণ্ড, ক্রিপ্টোকারেন্সি ব্যবহার (বাংলাদেশের মতো সীমাবদ্ধ দেশে), মানি লন্ডারিং বা বিনিয়োগ কেলেঙ্কারির মতো কার্যকলাপের কঠোর নিষেধাজ্ঞা। এই শর্তাবলী লঙ্ঘন পূর্ব নোটিশ ছাড়াই স্থায়ী অ্যাকাউন্ট সমাপ্তির পরিণতি হবে. অপব্যবহারের অবসান বা সাসপেনশনের ক্ষেত্রে ব্যবহারকারীদের কোন ডেটা ব্যাকআপ প্রদান করা হবে না এবং ব্যবহারকারীরা এই ধরনের ব্যাকআপের অনুরোধ না করতে সম্মত হন।"
+        ]
+      },
+      {
+        "title": "০৭. অগ্রহণযোগ্য কার্য:",
+        "paragraphs": [
+          "_![Image 1: ✖](https://s.w.org/images/core/emoji/16.0.1/svg/2716.svg) মুভি ডাউনলোড করা অডিও/ভিডিও আপলোড করা ![Image 2: ✖](https://s.w.org/images/core/emoji/16.0.1/svg/2716.svg) কপিরাইটযুক্ত উপাদান অডিও/ভিডিও/ছবি/সামগ্রী ![Image 3: ✖](https://s.w.org/images/core/emoji/16.0.1/svg/2716.svg) IRC স্ক্রিপ্ট/বট বা IRCD (irc সার্ভার) ![Image 4: ✖](https://s.w.org/images/core/emoji/16.0.1/svg/2716.svg) প্রক্সি স্ক্রিপ্ট/অনামিকার ![Image 5: ✖](https://s.w.org/images/core/emoji/16.0.1/svg/2716.svg) ছবি হোস্টিং স্ক্রিপ্ট (ফটোবাকেট বা টিনিপিকের অনুরূপ) ![Image 6: ✖](https://s.w.org/images/core/emoji/16.0.1/svg/2716.svg) অটোসার্ফ/পিটিসি/পিটিএস/পিপিসি সাইট ![Image 7: ✖](https://s.w.org/images/core/emoji/16.0.1/svg/2716.svg) ব্রুটফোর্স প্রোগ্রাম/স্ক্রিপ্ট/অ্যাপ্লিকেশন ![Image 8: ✖](https://s.w.org/images/core/emoji/16.0.1/svg/2716.svg) মেইল বোম্বার/স্প্যাম স্ক্রিপ্ট ![Image 9: ✖](https://s.w.org/images/core/emoji/16.0.1/svg/2716.svg) ব্যানার-বিজ্ঞাপন পরিষেবা (বাণিজ্যিক ব্যানার বিজ্ঞাপন ঘূর্ণন) ![Image 10: ✖](https://s.w.org/images/core/emoji/16.0.1/svg/2716.svg) ফাইল ডাম্প/মিরর স্ক্রিপ্ট (রপিডশেয়ারের মতো) ![Image 11: ✖](https://s.w.org/images/core/emoji/16.0.1/svg/2716.svg) বাণিজ্যিক অডিও স্ট্রিমিং (এক বা দুটি স্ট্রিমের বেশি) ![Image 12: ✖](https://s.w.org/images/core/emoji/16.0.1/svg/2716.svg) হাই-ইল্ড ইন্টারেস্ট প্রোগ্রাম (HYIP) বা সম্পর্কিত সাইট ![Image 13: ✖](https://s.w.org/images/core/emoji/16.0.1/svg/2716.svg) বিনিয়োগ সাইট (ফরেক্স, ই-গোল্ড এক্সচেঞ্জ, সেকেন্ড লাইফ/লিন্ডেন এক্সচেঞ্জ, পঞ্জি, এমএলএম/পিরামিড স্কিম) ![Image 14: ✖](https://s.w.org/images/core/emoji/16.0.1/svg/2716.svg) লটারি/জুয়ার সাইট ![Image 15: ✖](https://s.w.org/images/core/emoji/16.0.1/svg/2716.svg) হ্যাকার ফোকাসড সাইট/আর্কাইভ/প্রোগ্রাম ![Image 16: ✖](https://s.w.org/images/core/emoji/16.0.1/svg/2716.svg) সাইটগুলি অবৈধ কার্যকলাপ প্রচার করে৷ ![Image 17: ✖](https://s.w.org/images/core/emoji/16.0.1/svg/2716.svg) লাইভ স্পোর্টিং ইভেন্টের সম্প্রচার বা স্ট্রিমিং (UFC, NASCAR, FIFA, NFL, MLB, NBA, WWE, WWF, ইত্যাদি) ![Image 18: ✖](https://s.w.org/images/core/emoji/16.0.1/svg/2716.svg) Minecraft and its variations and anything related to Minecraft including control panels or websites about Minecraft. (Yes, we mean it. We will not make any exceptions.) ![Image 19: ✖](https://s.w.org/images/core/emoji/16.0.1/svg/2716.svg) Multics ![Image 20: ✖](https://s.w.org/images/core/emoji/16.0.1/svg/2716.svg) Chobots, Starbound, Runescape ![Image 21: ✖](https://s.w.org/images/core/emoji/16.0.1/svg/2716.svg) Teamspeak and Mumble ![Image 22: ✖](https://s.w.org/images/core/emoji/16.0.1/svg/2716.svg) Denial of Service (DoS) attacks ![Image 23: ✖](https://s.w.org/images/core/emoji/16.0.1/svg/2716.svg) Port scanning ![Image 24: ✖](https://s.w.org/images/core/emoji/16.0.1/svg/2716.svg) TOR/VPN/Proxy/Any kind of anonymity services not allow ![Image 25: ✖](https://s.w.org/images/core/emoji/16.0.1/svg/2716.svg) Digital Millenium Copyright Act (DMCA), including for Subscribers that are of foreign heritage and/or operating in a foreign country. ![Image 26: ✖](https://s.w.org/images/core/emoji/16.0.1/svg/2716.svg) Torrents ![Image 27: ✖](https://s.w.org/images/core/emoji/16.0.1/svg/2716.svg) Illegal downloads/Piracy ![Image 28: ✖](https://s.w.org/images/core/emoji/16.0.1/svg/2716.svg) CamFrog ![Image 29: ✖](https://s.w.org/images/core/emoji/16.0.1/svg/2716.svg) Virtual currency (*coin) mining ![Image 30: ✖](https://s.w.org/images/core/emoji/16.0.1/svg/2716.svg) HentaiAtHome ![Image 31: ✖](https://s.w.org/images/core/emoji/16.0.1/svg/2716.svg) IP spoofing ![Image 32: ✖](https://s.w.org/images/core/emoji/16.0.1/svg/2716.svg) Fake/Replica product websites ![Image 33: ✖](https://s.w.org/images/core/emoji/16.0.1/svg/2716.svg) World Community Grid ![Image 34: ✖](https://s.w.org/images/core/emoji/16.0.1/svg/2716.svg) HYIP websites ![Image 35: ✖](https://s.w.org/images/core/emoji/16.0.1/svg/2716.svg) Booter/Stresser websites ![Image 36: ✖](https://s.w.org/images/core/emoji/16.0.1/svg/2716.svg) HitLeap or any artificial traffic creation ![Image 37: ✖](https://s.w.org/images/core/emoji/16.0.1/svg/2716.svg) iBusinessPromoter or similar software ![Image 38: ✖](https://s.w.org/images/core/emoji/16.0.1/svg/2716.svg) LIULIANGKUANG ![Image 39: ✖](https://s.w.org/images/core/emoji/16.0.1/svg/2716.svg) Chinese private game servers or websites ![Image 40: ✖](https://s.w.org/images/core/emoji/16.0.1/svg/2716.svg) Nested Virtualization ![Image 41: ✖](https://s.w.org/images/core/emoji/16.0.1/svg/2716.svg) Anything related to ZenCash ![Image 42: ✖](https://s.w.org/images/core/emoji/16.0.1/svg/2716.svg) Any kind of high CPU, IO and network usage_"
+        ]
+      },
+      {
+        "title": "০৮. ভিপিএন",
+        "paragraphs": [
+          "আমরা আমাদের BDIX VPS-এ কোনো ধরনের VPN পরিষেবার অনুমতি দিই না",
+          "0৯"
+        ]
+      },
+      {
+        "title": "শর্তাদিগুলি পরিবর্তন বা পরিষেবার সংশ্লিষ্ট প্রতিশ্রুতির সংশোধন বা বাতিলকরণ",
+        "paragraphs": []
+      },
+      {
+        "title": "০১. অফার পরিষেবার সমাপ্তি",
+        "paragraphs": [
+          "কর্তৃপক্ষ যে কোনো সময় করা যে কোনো অফার বাতিল করার ক্ষমতা রাখে। এমনকি যদি একটি অফার একটি নির্দিষ্ট সময়কালের জন্য খোলা হিসাবে মনোনীত করা হয়, তবে সেই সময়সীমা শেষ হওয়ার আগে এটি প্রত্যাহার সাপেক্ষে থাকবে। অতিরিক্তভাবে, একটি স্থায়ী অফার যা সময়ের সাথে সাথে গ্রহণযোগ্যতার অনুমতি দেয়, অফারটি ভবিষ্যতের গ্রহণযোগ্যতার জন্য অফারটি প্রত্যাহার করার অধিকার ধরে রাখে, এমনকি যদি পূর্বে গ্রহণ করা হয়ে থাকে"
+        ]
+      },
+      {
+        "title": "০২. পরিষেবা প্রত্যাখান",
+        "paragraphs": [
+          "আমরা আমাদের নিজস্ব বিবেচনার ভিত্তিতে পরিষেবা প্রত্যাখ্যান, বাতিল বা স্থগিত করার অধিকার সংরক্ষণ করি।",
+          "১০ সাসপেনশন নীতি",
+          "ওয়েব হোস্টিং এর জন্য আমাদের প্রোটোকল এবং সার্ভার যে কোন জায়গায় সাসপেনশন এবং টারমিনেশন দ্বারা অফার করা সমস্ত পরিষেবা: ব্যবহারকারীদের একটি বকেয়া বিল থাকলে স্বয়ংক্রিয় সাসপেনশন ঘটে। কোনো গ্রাহক নির্ধারিত তারিখের মধ্যে তাদের বিল নিষ্পত্তি করতে ব্যর্থ হলে, তাদের পরিষেবা তিন কার্যদিবসের মধ্যে স্থগিত করা হবে। সাসপেনশনের পরে, গ্রাহকদের তাদের বকেয়া পেমেন্ট নিষ্পত্তি করার জন্য 15 দিনের গ্রেস পিরিয়ড দেওয়া হয়। অর্থ প্রদানের পরে, পরিষেবাটি অবিলম্বে পুনরায় সক্রিয় করা হবে। যাইহোক, যদি ইনভয়েসটি অপরিশোধিত থেকে যায়, আমাদের সিস্টেম স্থায়ীভাবে অ্যাকাউন্টটি তার সাথে সম্পর্কিত সমস্ত ডেটা সহ বন্ধ করে দেয়। একবার বন্ধ হয়ে গেলে, বকেয়া চালান নিষ্পত্তি করে অ্যাকাউন্টগুলি পুনরায় সক্রিয় করা যাবে না, এবং সমাপ্তির পরে কোনও ডেটা ব্যাকআপের নিশ্চয়তা নেই। এই চুক্তির সমাপ্তির পর, ক্লায়েন্টের দ্বারা সার্ভার এনিহোয়ারের কাছে বকেয়া কোনো ফি ক্লায়েন্টের দায়িত্ব হবে। এর মধ্যে সেটআপ ফি এবং ক্লায়েন্টের দ্বারা গৃহীত কোনো চার্জ অন্তর্ভুক্ত রয়েছে। যেহেতু পরিষেবাগুলি মাসিক বিল করা হয়, ক্লায়েন্টরা সমাপ্তির তারিখ নির্বিশেষে পুরো মাসের পরিষেবা ফিগুলির জন্য দায়বদ্ধ৷ অতএব, যদি এক মাসের মধ্যে যেকোনো দিনে সমাপ্তি ঘটতে থাকে, তাহলে ক্লায়েন্ট পুরো মাসের পরিষেবা ফি-র জন্য দায়ী থাকবে, কোনো প্র্রেশন বা রিফান্ড ছাড়াই।",
+          "১১ ডেটা ব্যাকআপ",
+          "Server Anywhere সার্ভার ক্র্যাশ বা কোনো টেক রিলেটেড কারণে ডাটা নষ্ট হলে সেটার দায়ভার নিবে না, Server Anywhere শুধু হোস্টিং সার্ভিস প্রোভাইড করেছে ডাটা ব্যাকআপ সংরক্ষণের দায়িত্ব নেয় নি, এরপর Server Anywhere অটোমেটিকলি ডাটা রিমোট সার্ভারে সংরক্ষণ করে থাকে, টেকনিকেল কারণে অনেক সময় রিমোট সার্ভারে ডাটা জমা নাও হতে পারে, এই জন্য সিপ্যানেল থেকে ক্লায়েন্টকে ব্যাকআপ নিয়মিত নিজ দায়িত্বে ডাউনলোড করে রাখতে হবে। সার্ভার এনিহোয়ার রিমোট ব্যাকআপ এরও নিচ্চয়তা প্রদান করে না। ক্লায়েন্টের নিজের নিরাপত্তার জন্য নিজ দ্বায়িত্ব থেকে ব্যাকআপ সংরক্ষণ করে রাখুন।",
+          "১২ ভিপিএস ব্যবহার",
+          "ক্লায়েন্ট তার VPS-এ এমন কোনো প্রক্রিয়া না চালাতে সম্মত হন যা একটি বর্ধিত সময়ের জন্য VPS-এ ৯০% -এর উপরে একটি CPU লোড তৈরি করে বা যা হোস্ট নোডে একটি বর্ধিত সময়ের জন্য উচ্চ CPU লোড সৃষ্টি করে। অন্য কথায়, ক্লায়েন্ট একটি বর্ধিত সময়ের জন্য তার বা নিজের জন্য সম্পূর্ণ কোরের সমতুল্য ব্যবহার না করতে সম্মত হন। বিঘ্নিত সিপিইউ ব্যবহারের ফলে সময় ব্যবধান নির্বিশেষে VPS রিবুট, শাটডাউন এবং/অথবা সাসপেনশন হতে পারে।",
+          "১৩ আমাদের সাথে যোগাযোগ"
+        ]
+      },
+      {
+        "title": "সাইট দেখতে, অথবা আমাদের কাছে ইমেইল পাঠাতে, আপনি আমাদের সাথে ইলেক্ট্রনিকভাবে যোগাযোগ করছেন। আপনাকে আমাদের সাথে অর্ডার দেওয়ার সময় একটি বৈধ ফোন নম্বর সরবরাহ করতে হবে। আমরা আপনার সাথে ইমেইল, এসএমএস, ফোন কল বা সাইটে নোটিশ পোস্ট করে আপনার সাথে যোগাযোগ করতে পারি বা আমরা যে কোনও আরও যোগাযোগের মাধ্যম অনুমোদন করতে পারি যা আমরা ব্যবহার করতে পছন্দ করি। চুক্তির উদ্দেশ্যে, আপনি এই ওয়েবসাইটের ব্যবহার (এবং/অথবা আপনার অর্ডারের অবস্থান) সম্পর্কে আমাদের থেকে যোগাযোগ পেতে সম্মত হন এবং আপনি সমস্ত যোগাযোগের সমান গুরুত্ব দেওয়া সম্মতি দেয়ার জন্য।",
+        "paragraphs": [
+          "১৪ পেমেন্ট ও লেট ফি নীতি"
+        ]
+      },
+      {
+        "title": "ইনভয়েসে উল্লেখিত নির্ধারিত সময়ের মধ্যে সকল পেমেন্ট সম্পন্ন করতে হবে। নির্ধারিত তারিখের পর ৩ (তিন) দিন বিলম্ব হলে অতিরিক্ত লেট ফি প্রযোজ্য হবে। পেমেন্ট এবং লেট ফি পরিশোধ না করা পর্যন্ত সেবা সাময়িকভাবে স্থগিত থাকতে পারে।",
+        "paragraphs": []
+      },
+      {
+        "title": "INTRODUCTION",
+        "paragraphs": [
+          "Server Anywhere is a Cloud Computing Service Provider Company.Our mission is to offer high-quality, flexible and affordable IT infrastructure as a custom solution with a monthly pricing model. Server Anywhere provides a variety of server types, including VPS Hosting, dedicated server, GPU server, shared hosting, Server Anywhere servers adopt the most affordable and cost-effective solutions to save costs for you. We charge monthly, which is always lower than the market price. With the increasing demand of users for high-performance servers.",
+          "The Site reserves the right to change, modify, add, or remove portions of these Terms and Conditions at any time without any prior notification. Changes will be effective when posted on the Site with no other notice provided. Please check these Terms and Conditions regularly for updates. Your continued use of the Site following the posting of changes to Terms and Conditions of use constitutes your acceptance of those changes."
+        ]
+      },
+      {
+        "title": "CONDITIONS OF SALE (BETWEEN SELLERS AND CUSTOMERS)",
+        "paragraphs": [
+          "Please read these conditions carefully before placing an order for any products with the Sellers (“We” or “Our” or “Us”, wherever applicable) on the Site. These conditions signify your agreement to be bound by these conditions."
+        ]
+      },
+      {
+        "title": "CONDITIONS RELATED TO SALE OF THE PRODUCT OR SERVICE",
+        "paragraphs": [
+          "This section deals with conditions relating to the sale of products or services on the Site.",
+          "01 ACCOUNT VERIFICATION",
+          "According to the BTRC rules , if someone wants to take the service, he must provide NID or passport",
+          "02 THE CONTRACT",
+          "Your order is a legal offer to the seller to buy the product or service displayed on our Site. When you place an order to purchase a product, any confirmations or status updates received prior to the dispatch of your order serves purely to validate the order details provided and in no way implies the confirmation of the order itself. The acceptance of your order is considered confirmed when the product is dispatched to you. If your order is dispatched in more than one package, you may receive separate dispatch confirmations. Upon time of placing the order, we indicate an approximate timeline that the processing of your order will take however we cannot guarantee this timeline to be rigorously precise in every instance as we are dependent on third party service providers to preserve this commitment. We commit to you to make every reasonable effort to ensure that the indicative timeline is met. All commercial/contractual terms are offered by and agreed to between you and the sellers alone. The commercial/contractual terms include without limitation price, shipping costs, payment methods, payment terms, date, period and mode of delivery, warranties related to products and services and after sales services related to products and services. Kahon does not have any control or does not determine or advise or in any way involve itself in the offering or acceptance of such commercial/contractual terms between the you and the Sellers. The seller retains the right to cancel any order at its sole discretion prior to dispatch. We will ensure that there is timely intimation to you of such cancellation via an email or sms. Any prepayments made in case of such cancellation(s), shall be refunded to you within the time frames stipulated here.",
+          "03 PRIVACY",
+          "Disclosure of Server Anywhere Network Collector Information. Server Anywhere Our website collects information from our users at various points. To use the Server Anywhere website, a user needs to fill out a portal.A user is required to provide contact information (such as name and email address) during registration. We may use this information to communicate with the user about our site’s services. However, in certain cases, the user may be required to provide NID or other documents",
+          "★1. In case of change of Server Anywhere account email or any other information",
+          "★2. While verifying the account of the Server Anywhere",
+          "★3. If the domain or hosting is suspended for any reason",
+          "★4. In case of BDIX service All information provided above will be kept strictly confidential by Server Anywhere . PutulHost may take legal action using User Information if the User does not comply with Server Anywhere’s terms and conditions.",
+          "04 PAYMENT",
+          "When you purchase our services, you’re acquiring pre-paid offerings, including domain registration, web hosting, Dedicated Server, Virtual Private Server, etc. Please note that all services are subject to a 5% VAT charge when using the Uddokta Pay method. Payment for invoices can be made online via bKash, Nagad, or offline through Bank Transfer (City Bank). Online payments will incur an additional payment gateway fee, automatically added as you select your payment method in your Clients Area > Invoice. In case of manual payment it may take 5 minutes to 12 hours for bkash/rocket/nagad/bank/paypal. Renewal reminders are sent via email multiple times, starting from 30 days prior to the renewal date. We exclusively accept bKash, Nagad, and Bank Transfer for service payments. In the event of a failed yearly charge and inability to contact you, late fees may be applied to reactivate your account. For payment-related inquiries, please reach out to Server Anywhere tickets from our clients’ area. Regarding overdue invoices for shared/reseller/VPS/Dedicated accounts, the following actions will be taken: 1-2 Days: No action taken 3 Days: Account suspension 7 Days: Late fee added 30 Days: Service termination",
+          "05 DELIVERY",
+          "★1. Domain, Hosting, VPS,Reseller Hosting Instant Delivery provided, if there are no technical or payment related complications. However, if for some reason it is not instant active, it may take up to 5-30 minutes. In case of other Dedicated Server services, it may take 5 minutes to maximum 72 hours for delivery.",
+          "★2. If for some reason the invoice shows unpaid after payment through the gateway, open a ticket with your payment info, Server Anywhere will contact the gateway and inform the solution in that case it may take 6 hours to 72 hours, in such a case your order will not be active. Note: In this case we may have to contact the payment gateway for which the third party’s reply may be delayed, wait until the reply is given. In case of manual payment it may take 5 minutes to 12 hours for bkash/rocket/nagad/bank/ Note: If the invoice number is wrongly given as a reference during manual payment, then the wrong invoice will be paid and the service will be activated, in this case the refund will not be accepted, the client will have to make a new payment.",
+          "06 REFUND POLICY",
+          "We do not offer partial refunds for monthly payments. A 30-day notice period is required for cancellation. No refunds will be issued if you breach our terms and conditions.",
+          "★ Any VPS server is completely non-refundable If there is any problem related to the server, it will take at least 6-24 hours for the company to solve the problem. No refund will be issued.",
+          "★ No refunds will be made once any domain registration or transfer has been initiated.",
+          "★ No Cancellation requests will be accepted without Client Area .",
+          "★ After submitting the cancellation request, the account cannot be reactivated in any way, you have to purchase a new package.",
+          "★ After submitting the cancellation request the billing department will open a ticket, then it may take from 1 day to maximum 15 days depending on the gateway. Sending Charges / Gateway Charges / Cash Out Charges will be deducted for any refund.",
+          "★★★ (Special cases) If the issue is not resolved, the money credited to the client’s account is non-refundable, it can be used to purchase any service.",
+          "07 রিফান্ড (মূল্যফেরত) নীতি"
+        ]
+      },
+      {
+        "title": "01. REFUND POLICY FOR VPS",
+        "paragraphs": [
+          "We do not issue partial refunds for monthly fees. Cancellations require a 30-day notice period. No Refund will be issued if you are found in violation of our terms and conditions . Any VPS is completely non-refundable",
+          "★ 1) If there is any problem related to the server in between, the company will take at least 6-24 hours to solve the problem. No refunds will be issued.",
+          "★ 2)(In special cases) If the problem is not resolved, Money deposited in the client’s account is non-refundable, it can be used to purchase any service."
+        ]
+      },
+      {
+        "title": "02. REFUND POLICY FOR DEDICATED SERVER",
+        "paragraphs": [
+          "We do not issue partial refunds for monthly fees. Cancellations require a 30-day notice period. No Refund will be issued if you are found in violation of our terms and conditions . Any Dedicated server is completely non-refundable",
+          "★1.) After ordering any of our services, it will take a minimum of 6-24 hours to start the service",
+          "★2) After payment, performance testing time is 1 day, if there is any problem related to the server in between, the company will take at least 6-24 hours to solve the problem. No refunds will be made.",
+          "★3) If after the solution the client wants a refund within 1 day after the purchase, then 100 rupees service charge will be deducted and the remaining amount will be returned. However, no refund request will be entertained after 2 days.",
+          "★4) (In special cases) If the problem is not solved, then 1000 taka for service charge and refund as per day.",
+          "08 CONDITIONS OF USE"
+        ]
+      },
+      {
+        "title": "01. COMMITMENT",
+        "paragraphs": [
+          "Please ensure that the details you have provided with us are completely correct. We may immediately terminate your account or purchased services for any false information you provide, and without reason or notice.We shall not be responsible or liable for any damages incurred by or caused to you by or in connection with or arising out of the performance of such actions. You are responsible for updating your account information, and you must do so in real time by accessing your account online.In the event that you are unable to update information by logging into your account on the Site, you must notify us through our customer service communication channels so that we can facilitate these changes."
+        ]
+      },
+      {
+        "title": "02. USER ACCOUNT",
+        "paragraphs": [
+          "In order to access certain services offered by the Platform, we may require you to provide personal information to create an account or to complete the creation of an account. We may disable usernames and/or passwords at any time, in our sole and absolute discretion, without reason or prior notice, and shall not be responsible or liable for any damages arising out of, arising out of, related to, or caused by such request or cancellation. will not be liable. It is your responsibility to maintain the confidentiality of your user ID, password, account details and related personal information. You agree to accept this responsibility and ensure that your account and its associated details are kept secure at all times and that all necessary steps are taken to prevent misuse of your account. If your password has been disclosed to anyone or if you have any reason to believe that the password is being, or is about to be, used in an unauthorized manner, you must notify us immediately.You agree and acknowledge that any use of the Site and related services and/or any access to personal information, data or communications using your account and password will be deemed to be performed by you or authorized by you. You agree that we shall assume (but not be obligated to) assume, rely on, or be held solely responsible and liable for any work performed or transmitted by you.You further acknowledge and agree that you will be obligated to fully indemnify us from all damages arising out of your use of or access to the Site through your account."
+        ]
+      },
+      {
+        "title": "03. YOUR CONDUCT",
+        "paragraphs": [
+          "You must not intrude, damage or in any way impair or complicate any activity related to the use of the Product. Your misuse of the Service is strictly prohibited.You are not prevented from using the Service for fraudulent purposes, or linked to military crimes or other illegal activities;such as: is not owned by you or is illegal, offensive (such as contains sexological content or that depicts bigotry, misogyny, hatred or physical harm), misleading, deceptive, abusive, obscene, abusive, defamatory, obscene, pornographic, obscene or threatening; is racially offensive, retaliatory or in violation of copyright, trademark, privacy or any other property or right; or harmful to the detriment of other third parties; or relating to or instrumental in money-making or gambling; or in any way definitively save the lifeless; or jeopardizing the unity, integrity, security or assistance of Bangladesh, including foreign countries; or in any manner that is repugnant or otherwise illegal;or the continuation of software viruses, political propaganda, commercial solicitation, chain letters, ocean mailing or any “spam” or other methods of using the Site, or causing inconvenience, inconvenience or unnecessary thought for illegal purposes or using the Service for any other purpose is strictly prohibited."
+        ]
+      },
+      {
+        "title": "04. STRICT ANTI-SPAM POLICY",
+        "paragraphs": [
+          "We enforce a strict policy against the transmission of unsolicited emails, bulk emailing, and spam. This includes considering safe lists and purchased lists as spam. Any user found engaging in spamming activities will face immediate account termination, with or without prior notice.Any attempt to undermine or harm a customer using Server Anywhere’s services is strictly prohibited. As our customer you are responsible for all of your accounts. We enforce a strict policy against unsolicited email, bulk email and spam transmissions. This includes treating safe lists and bought lists as spam. If you violate the Terms of Service described herein, your account will be terminated without refund."
+        ]
+      },
+      {
+        "title": "05. Our System for Managing Abuse",
+        "paragraphs": [
+          "When an abuse report is received, our first step is to verify its authenticity and determine if it pertains to our services. If it’s unrelated, we promptly inform the sender. However, if the abuse is within our domain, we forward the report to the relevant customer and provide a 24-hour window for resolution, while also informing the sender of our actions. If the customer takes appropriate measures and resolves the issue, we notify the sender and consider the matter resolved. Should the customer require additional time, we inquire about the steps being taken. After verifying their efforts, if satisfactory, we extend the timeframe accordingly based on the severity of the abuse. If deemed inadequate, we suspend the user’s account. If there’s no response from the customer within 24 hours, we suspend the reported service and notify the sender accordingly. Subsequently, if the user requests unsuspension, we require them to address the abuse report adequately. Upon satisfactory action, we proceed to unsuspend the service. No refunds will be granted in cases where service cancellation, suspension, or termination arises from failure to comply with our terms and conditions"
+        ]
+      },
+      {
+        "title": "06. Termination of Hosting Services Due to Abuse",
+        "paragraphs": [
+          "The following actions will lead to immediate termination of a user’s account due to abuse: Hosting any content related to phishing, drugs, or pornography. Engaging in activities on a user’s website that violate international law or local ICT regulations, potentially resulting in temporary suspension for legal investigation. Attempting to incite hatred or conflicts based on nationality, religion, or community using our services. Involvement in payment or card fraud, leading to immediate termination. Engaging in scamming or spamming activities using our services. Strict prohibition of activities such as anti-government actions, cryptocurrency use (in restricted countries like Bangladesh), money laundering, or investment scams. Violation of these terms will result in permanent account termination without prior notice. No data backup will be provided to users in case of abuse termination or suspension, and users agree not to request such backup."
+        ]
+      },
+      {
+        "title": "07. Examples of prohibited content or links include (but are not limited to):",
+        "paragraphs": [
+          "Topsites: IRC Scripts/Bots Proxy Scripts/Anonymizers Pirated Software/Warez Image Hosting Scripts (similar to Photobucket or Tinypic) AutoSurf/PTC/PTS/PPC sites IP Scanners VPN Services Bruteforce Programs/Scripts/Applications Mail Bombers/Spam Scripts Banner-Ad services (commercial banner ad rotation) File Dump/Mirror Scripts (similar to rapidshare) Commercial Audio Streaming (more than one or two streams) Escrow/Bank Debentures High-Yield Interest Programs (HYIP) or Related Sites Investment Sites (FOREX, E-Gold Exchange, Second Life/Linden Exchange, Ponzi, MLM/Pyramid Scheme) Sale of any controlled substance without prior proof of appropriate permit(s) Prime Banks Programs Lottery Sites MUDs/RPGs/PBBGs Hateful/Racist/Harassment oriented sites Hacker focused sites/archives/programs Sites promoting illegal activities Forums and/or websites that distribute or link to warez/pirated/illegal content Bank Debentures/Bank Debenture Trading Programs Fraudulent Sites (Including, but not limited to sites listed at aa419.org & escrow-fraud.com) Mailer Pro Examples of unacceptable material on all VPS/Dedicated/Cloud servers include: IRCD (irc servers) IRC Scripts/Bots Pirated Software/Warez IP Scanners Bruteforce Programs/Scripts/Applications Mail Bombers/spam Scripts Escrow VPN Services High-Yield Interest Programs (HYIP) or Related Sites Investment Sites (FOREX, E-Gold Exchange, Second Life/Linden Exchange, Ponzi, MLM/Pyramid Scheme) Sale of any controlled substance without prior proof of appropriate permit(s) Prime Banks Programs Lottery Sites Hateful/Racist/Harassment oriented sites Hacker focused sites/archives/programs Sites promoting illegal activities Forums and/or websites that distribute or link to warez/pirated/illegal content Bank Debentures/Bank Debenture Trading Programs Fraudulent Sites (Including, but not limited to sites listed at aa419.org & escrow-fraud.com) Mailer Pro"
+        ]
+      },
+      {
+        "title": "08. VPN",
+        "paragraphs": [
+          "We dont Allow Any Type of VPN service in Our BDIX VPS",
+          "09 AMENDMENTS TO CONDITIONS OR ALTERATIONS OF SERVICE AND RELATED PROMISE"
+        ]
+      },
+      {
+        "title": "01. Termination Of An Offer Services",
+        "paragraphs": [
+          "The Authorities have the power to cancel any offer made at any time. Even if an offer is designated as open for a specified duration, it remains subject to revocation prior to the lapse of that period. Additionally, in the case of a standing offer that permits acceptance over time, the offeror retains the right to revoke the offer for future acceptances, even if previous acceptances have occurred."
+        ]
+      },
+      {
+        "title": "02. Refusal of Service",
+        "paragraphs": [
+          "We reserve the right to refuse, cancel or suspend service, at our sole discretion.",
+          "10 Suspension & Termination Policy",
+          "Our Protocol for Web Hosting and All Services Offered by Server Anywhere Suspension and Termination: Automatic suspension occurs when users have an outstanding bill. Should a customer fail to settle their bill by the due date, their service will be suspended within three working days . Following suspension, customers are granted a 15-day grace period to settle their outstanding payment. Upon payment, the service will be reactivated instantly. However, if the invoice remains unpaid, our system permanently terminates the account along with all its associated data. Once terminated, accounts cannot be reactivated by settling the outstanding invoice, and no data backup is guaranteed post-termination.. Upon termination of this agreement, any outstanding fees owed to Server Anywhere by the client shall be the client’s responsibility. This includes setup fees and any charges incurred by the client. As services are billed monthly, clients are liable for the full month’s service fees regardless of the termination date. Therefore, if termination occurs on any day within a month, the client is responsible for the entire month’s service fees, with no proration or refunds.",
+          "11 Backups",
+          "Note: VPS/VDS/Dedicated server user doesn’t have any data backup option includes by default. Nor even any backup of the VPS/VDS/Dedicated server customer’s data is stored on ‍Server Anywhere’s side for any disaster recovery purpose. So, it’s always the customer’s responsibility to create their backup strategy. Server Anywhere takes daily backup and backups are not guaranteed. These backups are strictly for our own use in-case of a server failure. Server Anywhere recommends that clients backup their data to their personal computers or storage servers. Clients are responsible for their own data.",
+          "12 VPS CPU Usages",
+          "Client agrees not to run any processes on his or her VPS which create a CPU load above 90% on the VPS for an extended period of time or which cause a high CPU load on the host node for an extended period of time. In other words, client agrees not to use the equivalent of a full core for him or herself for an extended period of time. Disruptive CPU usage may result in a reboot, shutdown, and/or suspension of the VPS regardless of the time lapse involved.",
+          "13 COMMUNICATING WITH US",
+          "When you visit the Site, or send e-mails to us, you are communicating with us electronically. You will be required to provide a valid phone number while placing an order with us. We may communicate with you by e-mail, SMS, phone call or by posting notices on the Site or by any other mode of communication we choose to employ. For contractual purposes, you consent to receive communications (including transactional, promotional and/or commercial messages), from us with respect to your use of the website (and/or placement of your order) and agree to treat all modes of communication with the same",
+          "14 Payment & Late Fee Policy",
+          "All payments must be completed within the due date mentioned in the invoice. If the payment is delayed, an additional late fee will be charged after 3 (three) days from the due date. The service may also be suspended until the payment, including late fees, is cleared."
+        ]
+      }
+    ]
+  },
+  {
+    "slug": "privacy-policy",
+    "title": "Privacy Policy",
+    "category": "Info",
+    "description": "এই গোপনীয়তা নীতিতে বর্ণনা করা হয়েছে যে, Server Anywhere (“আমরা,” “আমাদের,” বা “আমাদের সংস্থা”) কীভাবে আপনার ব্যক্তিগত তথ্য সংগ্রহ, ব্যবহার এবং প্রকাশ করে যখন আপনি আমাদের ওয়েবসাইট, পণ্য ও পরিষেবাগুল...",
+    "plans": [],
+    "notices": [],
+    "features": [],
+    "tables": [],
+    "faqs": [],
+    "warning": "",
+    "featureTitle": "",
+    "textSections": [
+      {
+        "title": "Server Anywhere-এর গোপনীয়তা নীতি",
+        "paragraphs": [
+          "এই গোপনীয়তা নীতিতে বর্ণনা করা হয়েছে যে, Server Anywhere (“আমরা,” “আমাদের,” বা “আমাদের সংস্থা”) কীভাবে আপনার ব্যক্তিগত তথ্য সংগ্রহ, ব্যবহার এবং প্রকাশ করে যখন আপনি আমাদের ওয়েবসাইট, পণ্য ও পরিষেবাগুলি ব্যবহার করেন, যার মধ্যে ওয়েব হোস্টিং, ভিপিএস সার্ভার, আরডিপি সার্ভার, গেম হোস্টিং, ডোমেন রেজিস্ট্রেশন এবং ওয়েব ডিজাইন পরিষেবা অন্তর্ভুক্ত।"
+        ]
+      },
+      {
+        "title": "১. আমরা যে তথ্য সংগ্রহ করি",
+        "paragraphs": [
+          "আমরা আমাদের ওয়েবসাইট এবং পরিষেবার ব্যবহারকারীদের কাছ থেকে বিভিন্ন ধরণের তথ্য সংগ্রহ করতে পারি, যার মধ্যে রয়েছে:"
+        ]
+      },
+      {
+        "title": "২. আমরা কীভাবে আপনার তথ্য ব্যবহার করি",
+        "paragraphs": [
+          "আমরা সংগৃহীত তথ্য বিভিন্ন উদ্দেশ্যে ব্যবহার করি, যার মধ্যে রয়েছে:"
+        ]
+      },
+      {
+        "title": "৩. ডেটা নিরাপত্তা",
+        "paragraphs": [
+          "আমরা আপনার ব্যক্তিগত তথ্যের নিরাপত্তা বজায় রাখার জন্য বিভিন্ন নিরাপত্তা ব্যবস্থা বাস্তবায়ন করি। এর মধ্যে আপনার ডেটা অননুমোদিত অ্যাক্সেস, ব্যবহার, পরিবর্তন বা প্রকাশ থেকে রক্ষা করার জন্য শারীরিক, ইলেকট্রনিক এবং পদ্ধতিগত সুরক্ষা অন্তর্ভুক্ত রয়েছে। আমরা লাইটস্পিড সার্ভার ব্যবহার করি এবং ওয়েবসাইটের নিরাপত্তার জন্য বিনামূল্যে SSL সার্টিফিকেট সরবরাহ করি। তবে, ইন্টারনেটের মাধ্যমে ডেটা আদান-প্রদানের কোনো পদ্ধতি বা ইলেকট্রনিক স্টোরেজের কোনো পদ্ধতিই ১০০% নিরাপদ নয়।"
+        ]
+      },
+      {
+        "title": "৪. আপনার তথ্যের প্রকাশ",
+        "paragraphs": [
+          "আমরা আপনার ব্যক্তিগতভাবে সনাক্তকরণযোগ্য তথ্য আপনার সম্মতি ছাড়া বিক্রি, ব্যবসা বা অন্য কোনো তৃতীয় পক্ষের কাছে হস্তান্তর করি না, নিম্নলিখিত ক্ষেত্রগুলি ছাড়া:"
+        ]
+      },
+      {
+        "title": "৫. তৃতীয় পক্ষের লিঙ্ক",
+        "paragraphs": [
+          "আমাদের ওয়েবসাইটে তৃতীয় পক্ষের ওয়েবসাইটের লিঙ্ক থাকতে পারে। এই তৃতীয় পক্ষের সাইটগুলির নিজস্ব পৃথক এবং স্বাধীন গোপনীয়তা নীতি রয়েছে। তাই, এই লিঙ্কযুক্ত সাইটগুলির বিষয়বস্তু এবং কার্যকলাপের জন্য আমাদের কোনো দায়বদ্ধতা নেই।"
+        ]
+      },
+      {
+        "title": "৬. কুকিজ",
+        "paragraphs": [
+          "Server Anywhere তার পরিষেবাতে কার্যকলাপ ট্র্যাক করতে এবং নির্দিষ্ট তথ্য ধরে রাখতে কুকিজ এবং অনুরূপ ট্র্যাকিং প্রযুক্তি ব্যবহার করে। কুকিজ হল ছোট ডেটা ফাইল যা একটি বেনামী অনন্য শনাক্তকারী অন্তর্ভুক্ত করতে পারে। আপনি আপনার ব্রাউজারকে সমস্ত কুকিজ প্রত্যাখ্যান করতে বা একটি কুকিজ পাঠানোর সময় নির্দেশ করতে বলতে পারেন। তবে, আপনি যদি কুকিজ গ্রহণ না করেন, তাহলে আপনি আমাদের পরিষেবার কিছু অংশ ব্যবহার করতে পারবেন না।"
+        ]
+      },
+      {
+        "title": "৭. আপনার অধিকার",
+        "paragraphs": [
+          "আপনার এখতিয়ারের উপর নির্ভর করে, আপনার ব্যক্তিগত তথ্য সম্পর্কিত নির্দিষ্ট কিছু অধিকার থাকতে পারে, যার মধ্যে আপনার ডেটা অ্যাক্সেস, সংশোধন, আপডেট বা মুছে ফেলার অনুরোধ করার অধিকার অন্তর্ভুক্ত। এই অধিকারগুলি প্রয়োগ করতে অনুগ্রহ করে আমাদের সাথে যোগাযোগ করুন।"
+        ]
+      },
+      {
+        "title": "৮. এই গোপনীয়তা নীতির পরিবর্তন",
+        "paragraphs": [
+          "আমরা সময়ে সময়ে আমাদের গোপনীয়তা নীতি আপডেট করতে পারি। আমরা এই পৃষ্ঠায় নতুন গোপনীয়তা নীতি পোস্ট করে এবং “সর্বশেষ আপডেট” তারিখ পরিবর্তন করে আপনাকে যেকোনো পরিবর্তনের বিষয়ে অবহিত করব। যেকোনো পরিবর্তনের জন্য এই গোপনীয়তা নীতি নিয়মিত পর্যালোচনা করার পরামর্শ দেওয়া হচ্ছে।"
+        ]
+      },
+      {
+        "title": "৯. আমাদের সাথে যোগাযোগ করুন",
+        "paragraphs": [
+          "এই গোপনীয়তা নীতি সম্পর্কে আপনার যদি কোনো প্রশ্ন থাকে, তাহলে অনুগ্রহ করে আমাদের ওয়েবসাইটে প্রদত্ত পদ্ধতি ব্যবহার করে আমাদের সাথে যোগাযোগ করুন।",
+          "সর্বশেষ আপডেট: জুন ১১, ২০২৫"
+        ]
+      },
+      {
+        "title": "Privacy Policy for Server Anywhere",
+        "paragraphs": [
+          "This Privacy Policy describes how Server Anywhere (“we,” “us,” or “our”) collects, uses, and discloses your personal information when you visit and use our website, products, and services, including web hosting, VPS servers, RDP servers, game hosting, domain registration, and web design services."
+        ]
+      },
+      {
+        "title": "1. Information We Collect",
+        "paragraphs": [
+          "We may collect various types of information from and about users of our website and services, including:"
+        ]
+      },
+      {
+        "title": "2. How We Use Your Information",
+        "paragraphs": [
+          "We use the information we collect for various purposes, including:"
+        ]
+      },
+      {
+        "title": "3. Data Security",
+        "paragraphs": [
+          "We implement a variety of security measures to maintain the safety of your personal information. These include physical, electronic, and procedural safeguards to protect your data from unauthorized access, use, alteration, or disclosure. We use LiteSpeed servers and provide free SSL certificates for website security. However, no method of transmission over the Internet or method of electronic storage is 100% secure."
+        ]
+      },
+      {
+        "title": "4. Disclosure of Your Information",
+        "paragraphs": [
+          "We do not sell, trade, or otherwise transfer your personally identifiable information to outside parties without your consent, except in the following circumstances:"
+        ]
+      },
+      {
+        "title": "5. Third-Party Links",
+        "paragraphs": [
+          "Our website may contain links to third-party websites. These third-party sites have separate and independent privacy policies. We therefore have no responsibility or liability for the content and activities of these linked sites."
+        ]
+      },
+      {
+        "title": "6. Cookies",
+        "paragraphs": [
+          "Server Anywhere uses cookies and similar tracking technologies to track the activity on our service and hold certain information. Cookies are files with a small amount of data that may include an anonymous unique identifier. You can instruct your browser to refuse all cookies or to indicate when a cookie is being sent. However, if you do not accept cookies, you may not be able to use some portions of our Service."
+        ]
+      },
+      {
+        "title": "7. Your Rights",
+        "paragraphs": [
+          "Depending on your jurisdiction, you may have certain rights regarding your personal information, including the right to access, correct, update, or request deletion of your data. Please contact us to exercise these rights."
+        ]
+      },
+      {
+        "title": "8. Changes to This Privacy Policy",
+        "paragraphs": [
+          "We may update our Privacy Policy from time to time. We will notify you of any changes by posting the new Privacy Policy on this page and updating the “Last Updated” date. You are advised to review this Privacy Policy periodically for any changes."
+        ]
+      },
+      {
+        "title": "9. Contact Us",
+        "paragraphs": [
+          "If you have any questions about this Privacy Policy, please contact us through the methods provided on our website.",
+          "Last Updated: June 11, 2025"
+        ]
+      }
+    ]
+  }
+]
